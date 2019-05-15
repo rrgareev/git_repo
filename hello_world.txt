@@ -1,2 +1,2 @@
-print('Hello world!!!')
-print('Add new line')
+print('Hello world!!!';)
+print('Hello my dear fnd!';)
