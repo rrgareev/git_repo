@@ -3,3 +3,8 @@ It is the python client of the QuickFix
 * It parse the market data message
 * It records the market data in the memory
 * Press "1" will write the snapshot into the local file, press "2" will exit
+
+to run the code one should type:
+python fix_ntpro.py /home/.../fix_settings.cfg
+
+fix_settings.cfg - file with parameters of fix connection
