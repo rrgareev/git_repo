@@ -1,0 +1,2808 @@
+20190707-22:09:21.548308000 : Created session
+20190707-22:09:21.551475000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:09:21.558190000 : Initiated logon request
+20190707-22:09:21.565093000 : Message 1 Rejected: SendingTime accuracy problem
+20190707-22:09:21.565133000 : Tried to send a reject while not logged on
+20190707-22:09:21.565138000 : Disconnecting
+20190707-22:09:21.566273000 : Initiated logon request
+20190707-22:09:55.402600000 : Created session
+20190707-22:10:07.406699000 : Created session
+20190707-22:10:45.168993000 : Created session
+20190707-22:10:45.171960000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:10:45.176827000 : Initiated logon request
+20190707-22:10:45.180900000 : Message 2 Rejected: SendingTime accuracy problem
+20190707-22:10:45.180936000 : Tried to send a reject while not logged on
+20190707-22:10:45.180940000 : Disconnecting
+20190707-22:10:45.182123000 : Initiated logon request
+20190707-22:11:34.202590000 : Created session
+20190707-22:12:51.091080000 : Created session
+20190707-22:12:58.942459000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:12:58.947070000 : Initiated logon request
+20190707-22:12:58.952849000 : Message 3 Rejected: SendingTime accuracy problem
+20190707-22:12:58.952886000 : Tried to send a reject while not logged on
+20190707-22:12:58.952890000 : Disconnecting
+20190707-22:12:58.953342000 : Initiated logon request
+20190707-22:13:58.212924000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:13:58.227912000 : Initiated logon request
+20190707-22:13:58.234640000 : Message 4 Rejected: SendingTime accuracy problem
+20190707-22:13:58.234762000 : Tried to send a reject while not logged on
+20190707-22:13:58.234777000 : Disconnecting
+20190707-22:13:58.238399000 : Initiated logon request
+20190707-22:14:58.676520000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:14:58.685645000 : Initiated logon request
+20190707-22:14:58.698986000 : Message 5 Rejected: SendingTime accuracy problem
+20190707-22:14:58.699094000 : Tried to send a reject while not logged on
+20190707-22:14:58.699108000 : Disconnecting
+20190707-22:14:58.700603000 : Initiated logon request
+20190707-22:15:58.242244000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:15:58.266187000 : Initiated logon request
+20190707-22:15:58.283147000 : Message 6 Rejected: SendingTime accuracy problem
+20190707-22:15:58.283255000 : Tried to send a reject while not logged on
+20190707-22:15:58.283269000 : Disconnecting
+20190707-22:15:58.285618000 : Initiated logon request
+20190707-22:16:58.439042000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:16:58.446701000 : Initiated logon request
+20190707-22:16:58.453150000 : Message 7 Rejected: SendingTime accuracy problem
+20190707-22:16:58.453199000 : Tried to send a reject while not logged on
+20190707-22:16:58.453205000 : Disconnecting
+20190707-22:16:58.454013000 : Initiated logon request
+20190707-22:17:58.921898000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:17:58.928704000 : Initiated logon request
+20190707-22:17:58.936913000 : Message 8 Rejected: SendingTime accuracy problem
+20190707-22:17:58.937024000 : Tried to send a reject while not logged on
+20190707-22:17:58.937038000 : Disconnecting
+20190707-22:17:58.938690000 : Initiated logon request
+20190707-22:44:44.902739000 : Created session
+20190707-22:44:44.905797000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190707-22:44:44.919322000 : Initiated logon request
+20190707-22:44:44.935833000 : Message 9 Rejected: SendingTime accuracy problem
+20190707-22:44:44.935869000 : Tried to send a reject while not logged on
+20190707-22:44:44.935873000 : Disconnecting
+20190707-22:44:44.937194000 : Initiated logon request
+20190707-22:54:45.558105000 : Created session
+20190708-12:15:36.814711000 : Created session
+20190708-12:16:02.285286000 : Created session
+20190708-12:16:02.288476000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:16:02.299000000 : Initiated logon request
+20190708-12:16:02.317232000 : Message 10 Rejected: SendingTime accuracy problem
+20190708-12:16:02.317286000 : Tried to send a reject while not logged on
+20190708-12:16:02.317291000 : Disconnecting
+20190708-12:16:02.318972000 : Initiated logon request
+20190708-12:17:02.078949000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:17:02.087891000 : Initiated logon request
+20190708-12:17:02.100447000 : Message 11 Rejected: SendingTime accuracy problem
+20190708-12:17:02.100607000 : Tried to send a reject while not logged on
+20190708-12:17:02.100624000 : Disconnecting
+20190708-12:17:02.104112000 : Initiated logon request
+20190708-12:18:02.232549000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:18:02.238742000 : Initiated logon request
+20190708-12:18:02.244852000 : Message 12 Rejected: SendingTime accuracy problem
+20190708-12:18:02.244901000 : Tried to send a reject while not logged on
+20190708-12:18:02.244906000 : Disconnecting
+20190708-12:18:02.250193000 : Initiated logon request
+20190708-12:53:02.959952000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:53:02.965506000 : Initiated logon request
+20190708-12:53:02.970399000 : Message 13 Rejected: SendingTime accuracy problem
+20190708-12:53:02.972152000 : Tried to send a reject while not logged on
+20190708-12:53:02.972160000 : Disconnecting
+20190708-12:53:02.975103000 : Initiated logon request
+20190708-12:53:46.636202000 : Created session
+20190708-12:53:46.645092000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:53:46.650057000 : Initiated logon request
+20190708-12:53:46.659827000 : Message 14 Rejected: SendingTime accuracy problem
+20190708-12:53:46.659865000 : Tried to send a reject while not logged on
+20190708-12:53:46.659869000 : Disconnecting
+20190708-12:53:46.660357000 : Initiated logon request
+20190708-12:54:46.482328000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:54:46.488090000 : Initiated logon request
+20190708-12:54:46.493056000 : Message 15 Rejected: SendingTime accuracy problem
+20190708-12:54:46.493101000 : Tried to send a reject while not logged on
+20190708-12:54:46.493107000 : Disconnecting
+20190708-12:54:46.510029000 : Initiated logon request
+20190708-12:55:46.408570000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:55:46.414584000 : Initiated logon request
+20190708-12:55:46.418938000 : Message 16 Rejected: SendingTime accuracy problem
+20190708-12:55:46.419016000 : Tried to send a reject while not logged on
+20190708-12:55:46.419025000 : Disconnecting
+20190708-12:55:46.420829000 : Initiated logon request
+20190708-12:56:46.312945000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:56:46.318094000 : Initiated logon request
+20190708-12:56:46.326564000 : Message 17 Rejected: SendingTime accuracy problem
+20190708-12:56:46.326607000 : Tried to send a reject while not logged on
+20190708-12:56:46.326612000 : Disconnecting
+20190708-12:56:46.328019000 : Initiated logon request
+20190708-12:57:46.760838000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:57:46.777173000 : Initiated logon request
+20190708-12:57:46.785473000 : Message 18 Rejected: SendingTime accuracy problem
+20190708-12:57:46.785524000 : Tried to send a reject while not logged on
+20190708-12:57:46.785530000 : Disconnecting
+20190708-12:57:46.788250000 : Initiated logon request
+20190708-12:58:46.625380000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:58:46.632371000 : Initiated logon request
+20190708-12:58:46.638393000 : Message 19 Rejected: SendingTime accuracy problem
+20190708-12:58:46.639089000 : Tried to send a reject while not logged on
+20190708-12:58:46.639110000 : Disconnecting
+20190708-12:58:46.648187000 : Initiated logon request
+20190708-12:59:46.901911000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-12:59:46.906755000 : Initiated logon request
+20190708-12:59:46.913362000 : Message 20 Rejected: SendingTime accuracy problem
+20190708-12:59:46.913433000 : Tried to send a reject while not logged on
+20190708-12:59:46.913460000 : Disconnecting
+20190708-12:59:46.914777000 : Initiated logon request
+20190708-13:00:46.709957000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-13:00:46.735542000 : Initiated logon request
+20190708-13:00:46.745412000 : Message 21 Rejected: SendingTime accuracy problem
+20190708-13:00:46.745454000 : Tried to send a reject while not logged on
+20190708-13:00:46.745459000 : Disconnecting
+20190708-13:00:46.746005000 : Initiated logon request
+20190708-13:01:46.145287000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-13:01:46.155755000 : Initiated logon request
+20190708-13:01:46.161069000 : Message 22 Rejected: SendingTime accuracy problem
+20190708-13:01:46.161109000 : Tried to send a reject while not logged on
+20190708-13:01:46.161113000 : Disconnecting
+20190708-13:01:46.169496000 : Initiated logon request
+20190708-13:02:46.546073000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-13:02:46.555500000 : Initiated logon request
+20190708-13:02:46.559632000 : Message 23 Rejected: SendingTime accuracy problem
+20190708-13:02:46.559893000 : Tried to send a reject while not logged on
+20190708-13:02:46.559911000 : Disconnecting
+20190708-13:02:46.561529000 : Initiated logon request
+20190708-09:06:05.844731000 : Created session
+20190708-09:06:27.082774000 : Created session
+20190708-09:06:45.790089000 : Created session
+20190708-09:06:45.793707000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:06:45.798797000 : Initiated logon request
+20190708-09:06:45.813082000 : Message 24 Rejected: SendingTime accuracy problem
+20190708-09:06:45.813126000 : Tried to send a reject while not logged on
+20190708-09:06:45.813133000 : Disconnecting
+20190708-09:06:45.816253000 : Initiated logon request
+20190708-09:07:45.425496000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:07:45.434571000 : Initiated logon request
+20190708-09:07:45.443507000 : Message 25 Rejected: SendingTime accuracy problem
+20190708-09:07:45.443550000 : Tried to send a reject while not logged on
+20190708-09:07:45.443555000 : Disconnecting
+20190708-09:07:45.444195000 : Initiated logon request
+20190708-09:08:45.645231000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:08:45.651166000 : Initiated logon request
+20190708-09:08:45.655614000 : Message 26 Rejected: SendingTime accuracy problem
+20190708-09:08:45.655689000 : Tried to send a reject while not logged on
+20190708-09:08:45.655698000 : Disconnecting
+20190708-09:08:45.656934000 : Initiated logon request
+20190708-09:09:45.366332000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:09:45.371808000 : Initiated logon request
+20190708-09:09:45.384513000 : Message 27 Rejected: SendingTime accuracy problem
+20190708-09:09:45.384548000 : Tried to send a reject while not logged on
+20190708-09:09:45.384552000 : Disconnecting
+20190708-09:09:45.385073000 : Initiated logon request
+20190708-09:10:45.681790000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:10:45.686047000 : Initiated logon request
+20190708-09:10:45.689765000 : Message 28 Rejected: SendingTime accuracy problem
+20190708-09:10:45.689813000 : Tried to send a reject while not logged on
+20190708-09:10:45.689820000 : Disconnecting
+20190708-09:10:45.691835000 : Initiated logon request
+20190708-09:11:45.563793000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:11:45.568686000 : Initiated logon request
+20190708-09:11:45.572516000 : Message 29 Rejected: SendingTime accuracy problem
+20190708-09:11:45.572562000 : Tried to send a reject while not logged on
+20190708-09:11:45.572567000 : Disconnecting
+20190708-09:11:45.573835000 : Initiated logon request
+20190708-09:12:45.901787000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:12:45.907216000 : Initiated logon request
+20190708-09:12:45.911944000 : Message 30 Rejected: SendingTime accuracy problem
+20190708-09:12:45.911980000 : Tried to send a reject while not logged on
+20190708-09:12:45.911984000 : Disconnecting
+20190708-09:12:45.912843000 : Initiated logon request
+20190708-09:13:45.804827000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:13:45.813331000 : Initiated logon request
+20190708-09:13:45.825781000 : Message 31 Rejected: SendingTime accuracy problem
+20190708-09:13:45.825923000 : Tried to send a reject while not logged on
+20190708-09:13:45.825940000 : Disconnecting
+20190708-09:13:45.828359000 : Initiated logon request
+20190708-09:14:45.590327000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:14:45.596318000 : Initiated logon request
+20190708-09:14:45.603774000 : Message 32 Rejected: SendingTime accuracy problem
+20190708-09:14:45.603843000 : Tried to send a reject while not logged on
+20190708-09:14:45.603851000 : Disconnecting
+20190708-09:14:45.606195000 : Initiated logon request
+20190708-09:15:45.746088000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:15:45.759193000 : Initiated logon request
+20190708-09:15:45.780906000 : Message 33 Rejected: SendingTime accuracy problem
+20190708-09:15:45.780984000 : Tried to send a reject while not logged on
+20190708-09:15:45.780993000 : Disconnecting
+20190708-09:15:45.782486000 : Initiated logon request
+20190708-09:16:45.313776000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:16:45.320689000 : Initiated logon request
+20190708-09:16:45.325536000 : Message 34 Rejected: SendingTime accuracy problem
+20190708-09:16:45.325638000 : Tried to send a reject while not logged on
+20190708-09:16:45.325656000 : Disconnecting
+20190708-09:16:45.339850000 : Initiated logon request
+20190708-09:17:45.550011000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190708-09:17:45.558275000 : Initiated logon request
+20190708-09:17:45.564189000 : Message 35 Rejected: SendingTime accuracy problem
+20190708-09:17:45.564280000 : Tried to send a reject while not logged on
+20190708-09:17:45.564292000 : Disconnecting
+20190708-09:17:45.569683000 : Initiated logon request
+20190709-05:59:36.694785000 : Created session
+20190709-05:59:50.977111000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-05:59:50.981539000 : Initiated logon request
+20190709-05:59:50.986023000 : Socket Error: Connection reset by peer.
+20190709-05:59:50.986048000 : Disconnecting
+20190709-06:00:35.520724000 : Created session
+20190709-06:00:47.598271000 : Created session
+20190709-06:00:47.601928000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:00:47.607169000 : Initiated logon request
+20190709-06:00:47.612424000 : Socket Error: Connection reset by peer.
+20190709-06:00:47.612456000 : Disconnecting
+20190709-06:03:09.414662000 : Created session
+20190709-06:03:33.586302000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:03:33.592427000 : Initiated logon request
+20190709-06:03:33.598440000 : Socket Error: Connection reset by peer.
+20190709-06:03:33.598465000 : Disconnecting
+20190709-06:04:33.866341000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:04:33.871787000 : Initiated logon request
+20190709-06:04:33.879164000 : Socket Error: Connection reset by peer.
+20190709-06:04:33.879212000 : Disconnecting
+20190709-06:05:33.781047000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:06:14.188552000 : Initiated logon request
+20190709-06:06:14.191569000 : Socket Error: Connection reset by peer.
+20190709-06:06:14.191593000 : Disconnecting
+20190709-06:06:33.696381000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:06:33.701162000 : Initiated logon request
+20190709-06:06:33.710685000 : Socket Error: Connection reset by peer.
+20190709-06:06:33.710708000 : Disconnecting
+20190709-06:07:33.917965000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:07:33.919001000 : Initiated logon request
+20190709-06:07:33.919037000 : Socket Error: Connection reset by peer.
+20190709-06:07:33.919044000 : Disconnecting
+20190709-06:13:00.977114000 : Created session
+20190709-06:13:00.993283000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:13:01.031780000 : Initiated logon request
+20190709-06:13:01.031852000 : Socket Error: Connection reset by peer.
+20190709-06:13:01.031867000 : Disconnecting
+20190709-06:15:14.324236000 : Created session
+20190709-06:15:14.330558000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:15:14.332135000 : Initiated logon request
+20190709-06:15:14.332171000 : Socket Error: Connection reset by peer.
+20190709-06:15:14.332183000 : Disconnecting
+20190709-06:15:57.459627000 : Created session
+20190709-06:27:08.344000000 : Created session
+20190709-06:28:51.212794000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:28:51.214023000 : Initiated logon request
+20190709-06:28:51.214064000 : Socket Error: Connection reset by peer.
+20190709-06:28:51.214073000 : Disconnecting
+20190709-06:50:04.862781000 : Created session
+20190709-06:51:06.368577000 : Created session
+20190709-06:51:07.195890000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-06:51:07.200311000 : Initiated logon request
+20190709-06:51:07.204507000 : Socket Error: Connection reset by peer.
+20190709-06:51:07.204534000 : Disconnecting
+20190709-07:14:20.797343000 : Created session
+20190709-07:15:11.960044000 : Created session
+20190709-07:15:11.962979000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:15:11.970270000 : Initiated logon request
+20190709-07:15:11.973567000 : Socket Error: Connection reset by peer.
+20190709-07:15:11.973595000 : Disconnecting
+20190709-07:15:42.458152000 : Created session
+20190709-07:15:42.460476000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:15:42.464644000 : Initiated logon request
+20190709-07:15:42.475837000 : Socket Error: Connection reset by peer.
+20190709-07:15:42.475889000 : Disconnecting
+20190709-07:16:02.241155000 : Created session
+20190709-07:16:02.243616000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:16:02.251954000 : Initiated logon request
+20190709-07:16:02.257980000 : Socket Error: Connection reset by peer.
+20190709-07:16:02.258016000 : Disconnecting
+20190709-07:17:09.102369000 : Created session
+20190709-07:17:09.104503000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:17:09.109881000 : Initiated logon request
+20190709-07:17:09.115627000 : Socket Error: Connection reset by peer.
+20190709-07:17:09.115659000 : Disconnecting
+20190709-07:20:33.842932000 : Created session
+20190709-07:20:45.138830000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:20:45.145270000 : Initiated logon request
+20190709-07:20:45.148485000 : Socket Error: Connection reset by peer.
+20190709-07:20:45.148515000 : Disconnecting
+20190709-07:23:42.865819000 : Created session
+20190709-07:23:43.596646000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:23:43.601122000 : Initiated logon request
+20190709-07:23:43.604838000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:23:43.604872000 : Received logon response
+20190709-07:25:36.635346000 : Created session
+20190709-07:25:36.637258000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:25:36.641556000 : Initiated logon request
+20190709-07:25:36.645561000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:25:36.645597000 : Received logon response
+20190709-07:27:32.242788000 : Created session
+20190709-07:29:40.712737000 : Socket Error: Connection reset by peer.
+20190709-07:29:40.712797000 : Disconnecting
+20190709-07:30:36.390054000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:30:36.397305000 : Initiated logon request
+20190709-07:30:36.402397000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:30:36.402431000 : Received logon response
+20190709-07:32:55.055655000 : Created session
+20190709-07:33:00.758247000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:33:00.762915000 : Initiated logon request
+20190709-07:33:00.766264000 : Socket Error: Connection reset by peer.
+20190709-07:33:00.766292000 : Disconnecting
+20190709-07:35:11.502814000 : Created session
+20190709-07:35:12.326985000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:35:12.340644000 : Initiated logon request
+20190709-07:35:12.340817000 : Socket Error: Connection reset by peer.
+20190709-07:35:12.340836000 : Disconnecting
+20190709-07:35:32.996703000 : Created session
+20190709-07:36:04.219396000 : Created session
+20190709-07:36:04.223998000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:36:04.229771000 : Initiated logon request
+20190709-07:36:04.245682000 : Socket Error: Connection reset by peer.
+20190709-07:36:04.245714000 : Disconnecting
+20190709-07:36:31.479144000 : Socket Error: Connection reset by peer.
+20190709-07:36:31.479174000 : Disconnecting
+20190709-07:36:36.194870000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:36:36.201098000 : Initiated logon request
+20190709-07:36:36.204708000 : Socket Error: Connection reset by peer.
+20190709-07:36:36.204732000 : Disconnecting
+20190709-07:36:47.388304000 : Created session
+20190709-07:37:08.130857000 : Created session
+20190709-07:37:08.134865000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:37:08.147212000 : Initiated logon request
+20190709-07:37:08.164786000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:37:08.164823000 : Received logon response
+20190709-07:37:36.265984000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:37:36.272663000 : Initiated logon request
+20190709-07:37:36.277527000 : Socket Error: Connection reset by peer.
+20190709-07:37:36.277553000 : Disconnecting
+20190709-07:38:12.444610000 : Created session
+20190709-07:38:18.450498000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:38:18.457137000 : Initiated logon request
+20190709-07:38:18.461914000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:38:18.461953000 : Received logon response
+20190709-07:38:36.891201000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:38:36.902971000 : Initiated logon request
+20190709-07:38:36.906295000 : Socket Error: Connection reset by peer.
+20190709-07:38:36.906318000 : Disconnecting
+20190709-07:39:36.242319000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:39:36.248348000 : Initiated logon request
+20190709-07:39:36.253392000 : Socket Error: Connection reset by peer.
+20190709-07:39:36.253422000 : Disconnecting
+20190709-07:40:00.247420000 : Initiated logout request
+20190709-07:40:00.251110000 : Received logout response
+20190709-07:40:00.251338000 : Disconnecting
+20190709-07:40:36.160731000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-07:40:36.166283000 : Initiated logon request
+20190709-07:40:36.170236000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190709-07:40:36.170381000 : Received logon response
+20190709-08:11:12.016042000 : Sent test request TEST
+20190709-08:11:27.482115000 : Socket Error: Connection reset by peer
+20190709-08:11:27.482141000 : Disconnecting
+20190709-08:11:36.528056000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:11:36.532634000 : Initiated logon request
+20190709-08:11:36.538130000 : Message 67 Rejected: SendingTime accuracy problem
+20190709-08:11:36.538173000 : Tried to send a reject while not logged on
+20190709-08:11:36.538180000 : Disconnecting
+20190709-08:11:36.538982000 : Initiated logon request
+20190709-08:12:36.126118000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:12:36.136372000 : Initiated logon request
+20190709-08:12:36.140486000 : Message 68 Rejected: SendingTime accuracy problem
+20190709-08:12:36.140525000 : Tried to send a reject while not logged on
+20190709-08:12:36.140529000 : Disconnecting
+20190709-08:12:36.141332000 : Initiated logon request
+20190709-08:13:36.326270000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:13:36.331344000 : Initiated logon request
+20190709-08:13:36.335831000 : Message 69 Rejected: SendingTime accuracy problem
+20190709-08:13:36.335873000 : Tried to send a reject while not logged on
+20190709-08:13:36.335890000 : Disconnecting
+20190709-08:13:36.336430000 : Initiated logon request
+20190709-08:14:36.453752000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:14:36.459499000 : Initiated logon request
+20190709-08:14:36.467243000 : Message 70 Rejected: SendingTime accuracy problem
+20190709-08:14:36.467279000 : Tried to send a reject while not logged on
+20190709-08:14:36.467283000 : Disconnecting
+20190709-08:14:36.467778000 : Initiated logon request
+20190709-08:15:36.503643000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:15:36.509174000 : Initiated logon request
+20190709-08:15:36.517257000 : Message 71 Rejected: SendingTime accuracy problem
+20190709-08:15:36.517295000 : Tried to send a reject while not logged on
+20190709-08:15:36.517299000 : Disconnecting
+20190709-08:15:36.517979000 : Initiated logon request
+20190709-08:16:36.415483000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:16:36.420123000 : Initiated logon request
+20190709-08:16:36.425000000 : Message 72 Rejected: SendingTime accuracy problem
+20190709-08:16:36.425151000 : Tried to send a reject while not logged on
+20190709-08:16:36.425165000 : Disconnecting
+20190709-08:16:36.427500000 : Initiated logon request
+20190709-08:17:36.600769000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:17:36.606979000 : Initiated logon request
+20190709-08:17:36.614107000 : Message 73 Rejected: SendingTime accuracy problem
+20190709-08:17:36.614146000 : Tried to send a reject while not logged on
+20190709-08:17:36.614150000 : Disconnecting
+20190709-08:17:36.614826000 : Initiated logon request
+20190709-08:18:36.475876000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:18:36.480351000 : Initiated logon request
+20190709-08:18:36.487745000 : Message 74 Rejected: SendingTime accuracy problem
+20190709-08:18:36.487884000 : Tried to send a reject while not logged on
+20190709-08:18:36.487897000 : Disconnecting
+20190709-08:18:36.488943000 : Initiated logon request
+20190709-08:19:36.052471000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:19:36.057141000 : Initiated logon request
+20190709-08:19:36.066761000 : Message 75 Rejected: SendingTime accuracy problem
+20190709-08:19:36.066800000 : Tried to send a reject while not logged on
+20190709-08:19:36.066805000 : Disconnecting
+20190709-08:19:36.067486000 : Initiated logon request
+20190709-08:20:36.550397000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:20:36.555411000 : Initiated logon request
+20190709-08:20:36.561896000 : Message 76 Rejected: SendingTime accuracy problem
+20190709-08:20:36.562027000 : Tried to send a reject while not logged on
+20190709-08:20:36.562037000 : Disconnecting
+20190709-08:20:36.564730000 : Initiated logon request
+20190709-08:21:36.556413000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:21:36.562768000 : Initiated logon request
+20190709-08:21:36.568825000 : Message 77 Rejected: SendingTime accuracy problem
+20190709-08:21:36.568863000 : Tried to send a reject while not logged on
+20190709-08:21:36.568867000 : Disconnecting
+20190709-08:21:36.569436000 : Initiated logon request
+20190709-08:22:36.359122000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:22:36.378579000 : Initiated logon request
+20190709-08:22:36.387717000 : Message 78 Rejected: SendingTime accuracy problem
+20190709-08:22:36.387761000 : Tried to send a reject while not logged on
+20190709-08:22:36.387766000 : Disconnecting
+20190709-08:22:36.388930000 : Initiated logon request
+20190709-08:23:36.483575000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:23:36.488333000 : Initiated logon request
+20190709-08:23:36.497109000 : Message 79 Rejected: SendingTime accuracy problem
+20190709-08:23:36.497157000 : Tried to send a reject while not logged on
+20190709-08:23:36.497163000 : Disconnecting
+20190709-08:23:36.497721000 : Initiated logon request
+20190709-08:23:40.806793000 : Created session
+20190709-08:23:49.639427000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:23:49.644269000 : Initiated logon request
+20190709-08:23:49.648505000 : Message 80 Rejected: SendingTime accuracy problem
+20190709-08:23:49.648543000 : Tried to send a reject while not logged on
+20190709-08:23:49.648547000 : Disconnecting
+20190709-08:23:49.649526000 : Initiated logon request
+20190709-08:24:16.332251000 : Created session
+20190709-08:24:36.235023000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:24:36.239592000 : Initiated logon request
+20190709-08:24:36.245410000 : Message 81 Rejected: SendingTime accuracy problem
+20190709-08:24:36.245458000 : Tried to send a reject while not logged on
+20190709-08:24:36.245465000 : Disconnecting
+20190709-08:24:36.246238000 : Initiated logon request
+20190709-08:25:36.059611000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:25:36.064727000 : Initiated logon request
+20190709-08:25:36.068885000 : Message 82 Rejected: SendingTime accuracy problem
+20190709-08:25:36.068930000 : Tried to send a reject while not logged on
+20190709-08:25:36.068935000 : Disconnecting
+20190709-08:25:36.069759000 : Initiated logon request
+20190709-08:26:36.049953000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:26:36.054672000 : Initiated logon request
+20190709-08:26:36.059144000 : Message 83 Rejected: SendingTime accuracy problem
+20190709-08:26:36.059178000 : Tried to send a reject while not logged on
+20190709-08:26:36.059183000 : Disconnecting
+20190709-08:26:36.059802000 : Initiated logon request
+20190709-08:27:36.149011000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:27:36.157374000 : Initiated logon request
+20190709-08:27:36.163309000 : Message 84 Rejected: SendingTime accuracy problem
+20190709-08:27:36.163405000 : Tried to send a reject while not logged on
+20190709-08:27:36.163415000 : Disconnecting
+20190709-08:27:36.164868000 : Initiated logon request
+20190709-08:28:36.106778000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:28:36.113770000 : Initiated logon request
+20190709-08:28:36.118117000 : Message 85 Rejected: SendingTime accuracy problem
+20190709-08:28:36.118156000 : Tried to send a reject while not logged on
+20190709-08:28:36.118160000 : Disconnecting
+20190709-08:28:36.118711000 : Initiated logon request
+20190709-08:29:36.172786000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:29:36.177615000 : Initiated logon request
+20190709-08:29:36.182617000 : Message 86 Rejected: SendingTime accuracy problem
+20190709-08:29:36.182748000 : Tried to send a reject while not logged on
+20190709-08:29:36.182760000 : Disconnecting
+20190709-08:29:36.183365000 : Initiated logon request
+20190709-08:30:36.296889000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:30:36.301247000 : Initiated logon request
+20190709-08:30:36.308423000 : Message 87 Rejected: SendingTime accuracy problem
+20190709-08:30:36.308460000 : Tried to send a reject while not logged on
+20190709-08:30:36.308464000 : Disconnecting
+20190709-08:30:36.310318000 : Initiated logon request
+20190709-08:31:36.327680000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:31:36.332979000 : Initiated logon request
+20190709-08:31:36.349123000 : Message 88 Rejected: SendingTime accuracy problem
+20190709-08:31:36.349203000 : Tried to send a reject while not logged on
+20190709-08:31:36.349210000 : Disconnecting
+20190709-08:31:36.349774000 : Initiated logon request
+20190709-08:32:36.302239000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:32:36.307762000 : Initiated logon request
+20190709-08:32:36.312014000 : Message 89 Rejected: SendingTime accuracy problem
+20190709-08:32:36.312058000 : Tried to send a reject while not logged on
+20190709-08:32:36.312064000 : Disconnecting
+20190709-08:32:36.312630000 : Initiated logon request
+20190709-08:33:36.007403000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:33:36.012245000 : Initiated logon request
+20190709-08:33:36.015613000 : Message 90 Rejected: SendingTime accuracy problem
+20190709-08:33:36.015653000 : Tried to send a reject while not logged on
+20190709-08:33:36.015658000 : Disconnecting
+20190709-08:33:36.016192000 : Initiated logon request
+20190709-08:34:36.435249000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:34:36.442605000 : Initiated logon request
+20190709-08:34:36.448187000 : Message 91 Rejected: SendingTime accuracy problem
+20190709-08:34:36.448227000 : Tried to send a reject while not logged on
+20190709-08:34:36.448234000 : Disconnecting
+20190709-08:34:36.448942000 : Initiated logon request
+20190709-08:35:36.432655000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:35:36.442578000 : Initiated logon request
+20190709-08:35:36.456165000 : Message 92 Rejected: SendingTime accuracy problem
+20190709-08:35:36.456261000 : Tried to send a reject while not logged on
+20190709-08:35:36.456273000 : Disconnecting
+20190709-08:35:36.457712000 : Initiated logon request
+20190709-08:36:36.055756000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:36:36.063710000 : Initiated logon request
+20190709-08:36:36.073220000 : Message 93 Rejected: SendingTime accuracy problem
+20190709-08:36:36.073273000 : Tried to send a reject while not logged on
+20190709-08:36:36.073279000 : Disconnecting
+20190709-08:36:36.074033000 : Initiated logon request
+20190709-08:37:36.322969000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:37:36.335684000 : Initiated logon request
+20190709-08:37:36.347260000 : Message 94 Rejected: SendingTime accuracy problem
+20190709-08:37:36.347376000 : Tried to send a reject while not logged on
+20190709-08:37:36.347390000 : Disconnecting
+20190709-08:37:36.349531000 : Initiated logon request
+20190709-08:38:36.212556000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:38:36.219516000 : Initiated logon request
+20190709-08:38:36.227157000 : Message 95 Rejected: SendingTime accuracy problem
+20190709-08:38:36.227273000 : Tried to send a reject while not logged on
+20190709-08:38:36.227287000 : Disconnecting
+20190709-08:38:36.229301000 : Initiated logon request
+20190709-08:39:36.240148000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:39:36.247316000 : Initiated logon request
+20190709-08:39:36.253501000 : Message 96 Rejected: SendingTime accuracy problem
+20190709-08:39:36.253611000 : Tried to send a reject while not logged on
+20190709-08:39:36.253624000 : Disconnecting
+20190709-08:39:36.255362000 : Initiated logon request
+20190709-08:40:36.133324000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:40:36.143009000 : Initiated logon request
+20190709-08:40:36.147359000 : Message 97 Rejected: SendingTime accuracy problem
+20190709-08:40:36.147419000 : Tried to send a reject while not logged on
+20190709-08:40:36.147426000 : Disconnecting
+20190709-08:40:36.148259000 : Initiated logon request
+20190709-08:41:36.216840000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:41:36.228046000 : Initiated logon request
+20190709-08:41:36.233782000 : Message 98 Rejected: SendingTime accuracy problem
+20190709-08:41:36.234033000 : Tried to send a reject while not logged on
+20190709-08:41:36.234054000 : Disconnecting
+20190709-08:41:36.235956000 : Initiated logon request
+20190709-08:42:36.203594000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:42:36.212144000 : Initiated logon request
+20190709-08:42:36.217811000 : Message 99 Rejected: SendingTime accuracy problem
+20190709-08:42:36.217899000 : Tried to send a reject while not logged on
+20190709-08:42:36.217910000 : Disconnecting
+20190709-08:42:36.219337000 : Initiated logon request
+20190709-08:43:36.012202000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:43:36.018619000 : Initiated logon request
+20190709-08:43:36.030122000 : Message 100 Rejected: SendingTime accuracy problem
+20190709-08:43:36.030222000 : Tried to send a reject while not logged on
+20190709-08:43:36.030234000 : Disconnecting
+20190709-08:43:36.032216000 : Initiated logon request
+20190709-08:44:36.026273000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:44:36.033963000 : Initiated logon request
+20190709-08:44:36.040518000 : Message 101 Rejected: SendingTime accuracy problem
+20190709-08:44:36.040627000 : Tried to send a reject while not logged on
+20190709-08:44:36.040640000 : Disconnecting
+20190709-08:44:36.042831000 : Initiated logon request
+20190709-08:45:36.163981000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:45:36.177795000 : Initiated logon request
+20190709-08:45:36.184634000 : Message 102 Rejected: SendingTime accuracy problem
+20190709-08:45:36.184717000 : Tried to send a reject while not logged on
+20190709-08:45:36.184730000 : Disconnecting
+20190709-08:45:36.186119000 : Initiated logon request
+20190709-08:46:36.156583000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:46:36.161215000 : Initiated logon request
+20190709-08:46:36.166532000 : Message 103 Rejected: SendingTime accuracy problem
+20190709-08:46:36.166575000 : Tried to send a reject while not logged on
+20190709-08:46:36.166580000 : Disconnecting
+20190709-08:46:36.167363000 : Initiated logon request
+20190709-08:47:36.197872000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:47:36.203838000 : Initiated logon request
+20190709-08:47:36.207381000 : Message 104 Rejected: SendingTime accuracy problem
+20190709-08:47:36.207447000 : Tried to send a reject while not logged on
+20190709-08:47:36.207464000 : Disconnecting
+20190709-08:47:36.208272000 : Initiated logon request
+20190709-08:48:36.158730000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:48:36.166983000 : Initiated logon request
+20190709-08:48:36.174510000 : Message 105 Rejected: SendingTime accuracy problem
+20190709-08:48:36.174551000 : Tried to send a reject while not logged on
+20190709-08:48:36.174556000 : Disconnecting
+20190709-08:48:36.175296000 : Initiated logon request
+20190709-08:49:36.191809000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:49:36.233875000 : Initiated logon request
+20190709-08:49:36.241501000 : Message 106 Rejected: SendingTime accuracy problem
+20190709-08:49:36.241548000 : Tried to send a reject while not logged on
+20190709-08:49:36.241553000 : Disconnecting
+20190709-08:49:36.246761000 : Initiated logon request
+20190709-08:50:36.003666000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:50:36.013079000 : Initiated logon request
+20190709-08:50:36.018290000 : Message 107 Rejected: SendingTime accuracy problem
+20190709-08:50:36.018374000 : Tried to send a reject while not logged on
+20190709-08:50:36.018381000 : Disconnecting
+20190709-08:50:36.018870000 : Initiated logon request
+20190709-08:51:36.044003000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:51:36.048857000 : Initiated logon request
+20190709-08:51:36.053698000 : Message 108 Rejected: SendingTime accuracy problem
+20190709-08:51:36.053747000 : Tried to send a reject while not logged on
+20190709-08:51:36.053753000 : Disconnecting
+20190709-08:51:36.054544000 : Initiated logon request
+20190709-08:52:36.059135000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:52:36.069876000 : Initiated logon request
+20190709-08:52:36.075052000 : Message 109 Rejected: SendingTime accuracy problem
+20190709-08:52:36.075140000 : Tried to send a reject while not logged on
+20190709-08:52:36.075150000 : Disconnecting
+20190709-08:52:36.077056000 : Initiated logon request
+20190709-08:53:36.067816000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:53:36.074591000 : Initiated logon request
+20190709-08:53:36.079249000 : Message 110 Rejected: SendingTime accuracy problem
+20190709-08:53:36.079293000 : Tried to send a reject while not logged on
+20190709-08:53:36.079298000 : Disconnecting
+20190709-08:53:36.080941000 : Initiated logon request
+20190709-08:54:36.050732000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:54:36.055161000 : Initiated logon request
+20190709-08:54:36.060563000 : Message 111 Rejected: SendingTime accuracy problem
+20190709-08:54:36.060598000 : Tried to send a reject while not logged on
+20190709-08:54:36.060601000 : Disconnecting
+20190709-08:54:36.061153000 : Initiated logon request
+20190709-08:55:36.866319000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:55:36.870741000 : Initiated logon request
+20190709-08:55:36.874998000 : Message 112 Rejected: SendingTime accuracy problem
+20190709-08:55:36.875034000 : Tried to send a reject while not logged on
+20190709-08:55:36.875038000 : Disconnecting
+20190709-08:55:36.875534000 : Initiated logon request
+20190709-08:56:36.391725000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:56:36.403704000 : Initiated logon request
+20190709-08:56:36.412577000 : Message 113 Rejected: SendingTime accuracy problem
+20190709-08:56:36.412629000 : Tried to send a reject while not logged on
+20190709-08:56:36.412635000 : Disconnecting
+20190709-08:56:36.413273000 : Initiated logon request
+20190709-08:57:36.152401000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:57:36.164626000 : Initiated logon request
+20190709-08:57:36.164718000 : Message 114 Rejected: SendingTime accuracy problem
+20190709-08:57:36.164764000 : Tried to send a reject while not logged on
+20190709-08:57:36.164770000 : Disconnecting
+20190709-08:57:36.174091000 : Initiated logon request
+20190709-08:58:36.543672000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:58:36.567892000 : Initiated logon request
+20190709-08:58:36.574859000 : Message 115 Rejected: SendingTime accuracy problem
+20190709-08:58:36.574910000 : Tried to send a reject while not logged on
+20190709-08:58:36.574916000 : Disconnecting
+20190709-08:58:36.575629000 : Initiated logon request
+20190709-08:59:36.569691000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-08:59:36.574235000 : Initiated logon request
+20190709-08:59:36.578884000 : Message 116 Rejected: SendingTime accuracy problem
+20190709-08:59:36.578920000 : Tried to send a reject while not logged on
+20190709-08:59:36.578924000 : Disconnecting
+20190709-08:59:36.579447000 : Initiated logon request
+20190709-09:00:36.218138000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:00:36.224043000 : Initiated logon request
+20190709-09:00:36.228411000 : Message 117 Rejected: SendingTime accuracy problem
+20190709-09:00:36.228461000 : Tried to send a reject while not logged on
+20190709-09:00:36.228468000 : Disconnecting
+20190709-09:00:36.229305000 : Initiated logon request
+20190709-09:01:36.444566000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:01:36.449430000 : Initiated logon request
+20190709-09:01:36.453105000 : Message 118 Rejected: SendingTime accuracy problem
+20190709-09:01:36.453154000 : Tried to send a reject while not logged on
+20190709-09:01:36.453159000 : Disconnecting
+20190709-09:01:36.454143000 : Initiated logon request
+20190709-09:02:36.268111000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:02:36.279545000 : Initiated logon request
+20190709-09:02:36.285717000 : Message 119 Rejected: SendingTime accuracy problem
+20190709-09:02:36.285795000 : Tried to send a reject while not logged on
+20190709-09:02:36.285807000 : Disconnecting
+20190709-09:02:36.287156000 : Initiated logon request
+20190709-09:03:36.584925000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:03:36.589841000 : Initiated logon request
+20190709-09:03:36.597515000 : Message 120 Rejected: SendingTime accuracy problem
+20190709-09:03:36.597652000 : Tried to send a reject while not logged on
+20190709-09:03:36.597665000 : Disconnecting
+20190709-09:03:36.598303000 : Initiated logon request
+20190709-09:04:36.503465000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:04:36.508116000 : Initiated logon request
+20190709-09:04:36.513178000 : Message 121 Rejected: SendingTime accuracy problem
+20190709-09:04:36.513216000 : Tried to send a reject while not logged on
+20190709-09:04:36.513220000 : Disconnecting
+20190709-09:04:36.513616000 : Initiated logon request
+20190709-09:05:36.075794000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:05:36.080289000 : Initiated logon request
+20190709-09:05:36.087193000 : Message 122 Rejected: SendingTime accuracy problem
+20190709-09:05:36.087232000 : Tried to send a reject while not logged on
+20190709-09:05:36.087237000 : Disconnecting
+20190709-09:05:36.094921000 : Initiated logon request
+20190709-09:06:36.638148000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:06:36.642949000 : Initiated logon request
+20190709-09:06:36.659142000 : Message 123 Rejected: SendingTime accuracy problem
+20190709-09:06:36.659295000 : Tried to send a reject while not logged on
+20190709-09:06:36.659309000 : Disconnecting
+20190709-09:06:36.660134000 : Initiated logon request
+20190709-09:07:36.712864000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:07:36.725007000 : Initiated logon request
+20190709-09:07:36.737099000 : Message 124 Rejected: SendingTime accuracy problem
+20190709-09:07:36.737154000 : Tried to send a reject while not logged on
+20190709-09:07:36.737161000 : Disconnecting
+20190709-09:07:36.745222000 : Initiated logon request
+20190709-09:08:36.426895000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:08:36.434078000 : Initiated logon request
+20190709-09:08:36.438444000 : Message 125 Rejected: SendingTime accuracy problem
+20190709-09:08:36.438552000 : Tried to send a reject while not logged on
+20190709-09:08:36.438745000 : Disconnecting
+20190709-09:08:36.440971000 : Initiated logon request
+20190709-09:09:36.220819000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:09:36.232404000 : Initiated logon request
+20190709-09:09:36.246411000 : Message 126 Rejected: SendingTime accuracy problem
+20190709-09:09:36.246508000 : Tried to send a reject while not logged on
+20190709-09:09:36.246520000 : Disconnecting
+20190709-09:09:36.248568000 : Initiated logon request
+20190709-09:10:36.170555000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:10:36.176448000 : Initiated logon request
+20190709-09:10:36.180916000 : Message 127 Rejected: SendingTime accuracy problem
+20190709-09:10:36.180962000 : Tried to send a reject while not logged on
+20190709-09:10:36.180967000 : Disconnecting
+20190709-09:10:36.181761000 : Initiated logon request
+20190709-09:11:36.453661000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:11:36.458999000 : Initiated logon request
+20190709-09:11:36.463526000 : Message 128 Rejected: SendingTime accuracy problem
+20190709-09:11:36.463571000 : Tried to send a reject while not logged on
+20190709-09:11:36.463577000 : Disconnecting
+20190709-09:11:36.464102000 : Initiated logon request
+20190709-09:12:36.284618000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:12:36.294594000 : Initiated logon request
+20190709-09:12:36.299002000 : Message 129 Rejected: SendingTime accuracy problem
+20190709-09:12:36.299045000 : Tried to send a reject while not logged on
+20190709-09:12:36.299050000 : Disconnecting
+20190709-09:12:36.299748000 : Initiated logon request
+20190709-09:13:36.510280000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:13:36.517391000 : Initiated logon request
+20190709-09:13:36.522385000 : Message 130 Rejected: SendingTime accuracy problem
+20190709-09:13:36.522431000 : Tried to send a reject while not logged on
+20190709-09:13:36.522437000 : Disconnecting
+20190709-09:13:36.523271000 : Initiated logon request
+20190709-09:14:36.254382000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:14:36.258829000 : Initiated logon request
+20190709-09:14:36.270302000 : Message 131 Rejected: SendingTime accuracy problem
+20190709-09:14:36.270340000 : Tried to send a reject while not logged on
+20190709-09:14:36.270345000 : Disconnecting
+20190709-09:14:36.271201000 : Initiated logon request
+20190709-09:15:36.377099000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:15:36.386025000 : Initiated logon request
+20190709-09:15:36.391425000 : Message 132 Rejected: SendingTime accuracy problem
+20190709-09:15:36.397773000 : Tried to send a reject while not logged on
+20190709-09:15:36.397801000 : Disconnecting
+20190709-09:15:36.399537000 : Initiated logon request
+20190709-09:16:36.252394000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:16:36.278729000 : Initiated logon request
+20190709-09:16:36.288200000 : Message 133 Rejected: SendingTime accuracy problem
+20190709-09:16:36.288239000 : Tried to send a reject while not logged on
+20190709-09:16:36.288243000 : Disconnecting
+20190709-09:16:36.288787000 : Initiated logon request
+20190709-09:17:36.476323000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:17:36.483416000 : Initiated logon request
+20190709-09:17:36.488774000 : Message 134 Rejected: SendingTime accuracy problem
+20190709-09:17:36.488811000 : Tried to send a reject while not logged on
+20190709-09:17:36.488815000 : Disconnecting
+20190709-09:17:36.489524000 : Initiated logon request
+20190709-09:18:36.197211000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:18:36.202912000 : Initiated logon request
+20190709-09:18:36.208839000 : Message 135 Rejected: SendingTime accuracy problem
+20190709-09:18:36.208915000 : Tried to send a reject while not logged on
+20190709-09:18:36.209087000 : Disconnecting
+20190709-09:18:36.209790000 : Initiated logon request
+20190709-09:19:36.240155000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:19:36.246497000 : Initiated logon request
+20190709-09:19:36.256060000 : Message 136 Rejected: SendingTime accuracy problem
+20190709-09:19:36.256104000 : Tried to send a reject while not logged on
+20190709-09:19:36.256111000 : Disconnecting
+20190709-09:19:36.256680000 : Initiated logon request
+20190709-09:20:36.583486000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:20:36.606364000 : Initiated logon request
+20190709-09:20:36.612276000 : Message 137 Rejected: SendingTime accuracy problem
+20190709-09:20:36.612311000 : Tried to send a reject while not logged on
+20190709-09:20:36.612315000 : Disconnecting
+20190709-09:20:36.612791000 : Initiated logon request
+20190709-09:21:36.509844000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:21:36.517441000 : Initiated logon request
+20190709-09:21:36.521467000 : Message 138 Rejected: SendingTime accuracy problem
+20190709-09:21:36.521503000 : Tried to send a reject while not logged on
+20190709-09:21:36.521507000 : Disconnecting
+20190709-09:21:36.522095000 : Initiated logon request
+20190709-09:22:36.689232000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:22:36.693362000 : Initiated logon request
+20190709-09:22:36.700887000 : Message 139 Rejected: SendingTime accuracy problem
+20190709-09:22:36.700933000 : Tried to send a reject while not logged on
+20190709-09:22:36.700940000 : Disconnecting
+20190709-09:22:36.701509000 : Initiated logon request
+20190709-09:23:36.377297000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:23:36.404633000 : Initiated logon request
+20190709-09:23:36.415386000 : Message 140 Rejected: SendingTime accuracy problem
+20190709-09:23:36.415435000 : Tried to send a reject while not logged on
+20190709-09:23:36.415442000 : Disconnecting
+20190709-09:23:36.416176000 : Initiated logon request
+20190709-09:24:36.288925000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:24:36.294290000 : Initiated logon request
+20190709-09:24:36.328793000 : Message 141 Rejected: SendingTime accuracy problem
+20190709-09:24:36.328834000 : Tried to send a reject while not logged on
+20190709-09:24:36.328840000 : Disconnecting
+20190709-09:24:36.329775000 : Initiated logon request
+20190709-09:25:36.440471000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:25:36.449789000 : Initiated logon request
+20190709-09:25:36.455199000 : Message 142 Rejected: SendingTime accuracy problem
+20190709-09:25:36.455235000 : Tried to send a reject while not logged on
+20190709-09:25:36.455250000 : Disconnecting
+20190709-09:25:36.455762000 : Initiated logon request
+20190709-09:26:36.026439000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:26:36.041581000 : Initiated logon request
+20190709-09:26:36.047627000 : Message 143 Rejected: SendingTime accuracy problem
+20190709-09:26:36.047665000 : Tried to send a reject while not logged on
+20190709-09:26:36.047669000 : Disconnecting
+20190709-09:26:36.048184000 : Initiated logon request
+20190709-09:27:36.270551000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:27:36.277901000 : Initiated logon request
+20190709-09:27:36.285217000 : Message 144 Rejected: SendingTime accuracy problem
+20190709-09:27:36.285260000 : Tried to send a reject while not logged on
+20190709-09:27:36.285266000 : Disconnecting
+20190709-09:27:36.286058000 : Initiated logon request
+20190709-09:28:36.647385000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:28:36.653189000 : Initiated logon request
+20190709-09:28:36.656487000 : Message 145 Rejected: SendingTime accuracy problem
+20190709-09:28:36.656523000 : Tried to send a reject while not logged on
+20190709-09:28:36.656527000 : Disconnecting
+20190709-09:28:36.657209000 : Initiated logon request
+20190709-09:29:36.447008000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:29:36.453239000 : Initiated logon request
+20190709-09:29:36.457212000 : Message 146 Rejected: SendingTime accuracy problem
+20190709-09:29:36.457257000 : Tried to send a reject while not logged on
+20190709-09:29:36.457265000 : Disconnecting
+20190709-09:29:36.458373000 : Initiated logon request
+20190709-09:30:36.402486000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:30:36.416750000 : Initiated logon request
+20190709-09:30:36.422614000 : Message 147 Rejected: SendingTime accuracy problem
+20190709-09:30:36.422733000 : Tried to send a reject while not logged on
+20190709-09:30:36.422743000 : Disconnecting
+20190709-09:30:36.423532000 : Initiated logon request
+20190709-09:31:36.465391000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:31:36.471329000 : Initiated logon request
+20190709-09:31:36.476841000 : Message 148 Rejected: SendingTime accuracy problem
+20190709-09:31:36.476900000 : Tried to send a reject while not logged on
+20190709-09:31:36.476912000 : Disconnecting
+20190709-09:31:36.477774000 : Initiated logon request
+20190709-09:32:36.558482000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:32:36.564229000 : Initiated logon request
+20190709-09:32:36.569776000 : Message 149 Rejected: SendingTime accuracy problem
+20190709-09:32:36.569820000 : Tried to send a reject while not logged on
+20190709-09:32:36.569826000 : Disconnecting
+20190709-09:32:36.577000000 : Initiated logon request
+20190709-09:33:36.465503000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:33:36.471284000 : Initiated logon request
+20190709-09:33:36.480065000 : Message 150 Rejected: SendingTime accuracy problem
+20190709-09:33:36.480100000 : Tried to send a reject while not logged on
+20190709-09:33:36.480104000 : Disconnecting
+20190709-09:33:36.480709000 : Initiated logon request
+20190709-09:34:36.402056000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:34:36.408799000 : Initiated logon request
+20190709-09:34:36.413822000 : Message 151 Rejected: SendingTime accuracy problem
+20190709-09:34:36.413863000 : Tried to send a reject while not logged on
+20190709-09:34:36.413867000 : Disconnecting
+20190709-09:34:36.414639000 : Initiated logon request
+20190709-09:35:36.354405000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:35:36.360291000 : Initiated logon request
+20190709-09:35:36.369347000 : Message 152 Rejected: SendingTime accuracy problem
+20190709-09:35:36.369388000 : Tried to send a reject while not logged on
+20190709-09:35:36.369393000 : Disconnecting
+20190709-09:35:36.370117000 : Initiated logon request
+20190709-09:36:36.160788000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:36:36.165800000 : Initiated logon request
+20190709-09:36:36.171497000 : Message 153 Rejected: SendingTime accuracy problem
+20190709-09:36:36.171541000 : Tried to send a reject while not logged on
+20190709-09:36:36.171546000 : Disconnecting
+20190709-09:36:36.172433000 : Initiated logon request
+20190709-09:37:36.496965000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:37:36.502224000 : Initiated logon request
+20190709-09:37:36.512349000 : Message 154 Rejected: SendingTime accuracy problem
+20190709-09:37:36.512384000 : Tried to send a reject while not logged on
+20190709-09:37:36.512388000 : Disconnecting
+20190709-09:37:36.512987000 : Initiated logon request
+20190709-09:38:36.224346000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:38:36.245654000 : Initiated logon request
+20190709-09:38:36.249838000 : Message 155 Rejected: SendingTime accuracy problem
+20190709-09:38:36.249876000 : Tried to send a reject while not logged on
+20190709-09:38:36.249882000 : Disconnecting
+20190709-09:38:36.250409000 : Initiated logon request
+20190709-09:39:36.563200000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:39:36.585381000 : Initiated logon request
+20190709-09:39:36.601933000 : Message 156 Rejected: SendingTime accuracy problem
+20190709-09:39:36.601986000 : Tried to send a reject while not logged on
+20190709-09:39:36.601993000 : Disconnecting
+20190709-09:39:36.602827000 : Initiated logon request
+20190709-09:40:36.566436000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:40:36.571367000 : Initiated logon request
+20190709-09:40:36.580865000 : Message 157 Rejected: SendingTime accuracy problem
+20190709-09:40:36.580905000 : Tried to send a reject while not logged on
+20190709-09:40:36.580910000 : Disconnecting
+20190709-09:40:36.582334000 : Initiated logon request
+20190709-09:41:36.314937000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:41:36.320059000 : Initiated logon request
+20190709-09:41:36.324208000 : Message 158 Rejected: SendingTime accuracy problem
+20190709-09:41:36.324252000 : Tried to send a reject while not logged on
+20190709-09:41:36.324257000 : Disconnecting
+20190709-09:41:36.325074000 : Initiated logon request
+20190709-09:42:36.487232000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:42:36.493123000 : Initiated logon request
+20190709-09:42:36.497556000 : Message 159 Rejected: SendingTime accuracy problem
+20190709-09:42:36.497597000 : Tried to send a reject while not logged on
+20190709-09:42:36.497602000 : Disconnecting
+20190709-09:42:36.516369000 : Initiated logon request
+20190709-09:43:36.470980000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:43:36.477846000 : Initiated logon request
+20190709-09:43:36.482279000 : Message 160 Rejected: SendingTime accuracy problem
+20190709-09:43:36.482322000 : Tried to send a reject while not logged on
+20190709-09:43:36.482327000 : Disconnecting
+20190709-09:43:36.483128000 : Initiated logon request
+20190709-09:44:36.176552000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:44:36.188938000 : Initiated logon request
+20190709-09:44:36.192496000 : Message 161 Rejected: SendingTime accuracy problem
+20190709-09:44:36.192601000 : Tried to send a reject while not logged on
+20190709-09:44:36.192614000 : Disconnecting
+20190709-09:44:36.195025000 : Initiated logon request
+20190709-09:45:36.500001000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:45:36.506181000 : Initiated logon request
+20190709-09:45:36.511011000 : Message 162 Rejected: SendingTime accuracy problem
+20190709-09:45:36.511049000 : Tried to send a reject while not logged on
+20190709-09:45:36.511054000 : Disconnecting
+20190709-09:45:36.511645000 : Initiated logon request
+20190709-09:46:36.085756000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:46:36.108431000 : Initiated logon request
+20190709-09:46:36.117527000 : Message 163 Rejected: SendingTime accuracy problem
+20190709-09:46:36.117573000 : Tried to send a reject while not logged on
+20190709-09:46:36.117592000 : Disconnecting
+20190709-09:46:36.118330000 : Initiated logon request
+20190709-09:47:36.063994000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:47:36.075119000 : Initiated logon request
+20190709-09:47:36.080280000 : Message 164 Rejected: SendingTime accuracy problem
+20190709-09:47:36.080334000 : Tried to send a reject while not logged on
+20190709-09:47:36.080393000 : Disconnecting
+20190709-09:47:36.082194000 : Initiated logon request
+20190709-09:48:36.320525000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:48:36.327781000 : Initiated logon request
+20190709-09:48:36.337409000 : Message 165 Rejected: SendingTime accuracy problem
+20190709-09:48:36.337519000 : Tried to send a reject while not logged on
+20190709-09:48:36.337534000 : Disconnecting
+20190709-09:48:36.339242000 : Initiated logon request
+20190709-09:49:36.083493000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:49:36.088898000 : Initiated logon request
+20190709-09:49:36.095663000 : Message 166 Rejected: SendingTime accuracy problem
+20190709-09:49:36.095701000 : Tried to send a reject while not logged on
+20190709-09:49:36.095705000 : Disconnecting
+20190709-09:49:36.096230000 : Initiated logon request
+20190709-09:50:36.108122000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:50:36.113720000 : Initiated logon request
+20190709-09:50:36.122018000 : Message 167 Rejected: SendingTime accuracy problem
+20190709-09:50:36.122054000 : Tried to send a reject while not logged on
+20190709-09:50:36.122058000 : Disconnecting
+20190709-09:50:36.122565000 : Initiated logon request
+20190709-09:51:36.353056000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:51:36.357285000 : Initiated logon request
+20190709-09:51:36.361056000 : Message 168 Rejected: SendingTime accuracy problem
+20190709-09:51:36.361127000 : Tried to send a reject while not logged on
+20190709-09:51:36.361145000 : Disconnecting
+20190709-09:51:36.361987000 : Initiated logon request
+20190709-09:52:36.213861000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:52:36.221228000 : Initiated logon request
+20190709-09:52:36.228957000 : Message 169 Rejected: SendingTime accuracy problem
+20190709-09:52:36.229003000 : Tried to send a reject while not logged on
+20190709-09:52:36.229010000 : Disconnecting
+20190709-09:52:36.229679000 : Initiated logon request
+20190709-09:53:36.200032000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:53:36.206978000 : Initiated logon request
+20190709-09:53:36.213163000 : Message 170 Rejected: SendingTime accuracy problem
+20190709-09:53:36.213201000 : Tried to send a reject while not logged on
+20190709-09:53:36.213205000 : Disconnecting
+20190709-09:53:36.213994000 : Initiated logon request
+20190709-09:54:36.281331000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:54:36.290856000 : Initiated logon request
+20190709-09:54:36.295158000 : Message 171 Rejected: SendingTime accuracy problem
+20190709-09:54:36.295199000 : Tried to send a reject while not logged on
+20190709-09:54:36.295203000 : Disconnecting
+20190709-09:54:36.295945000 : Initiated logon request
+20190709-09:55:36.030987000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:55:36.035750000 : Initiated logon request
+20190709-09:55:36.039669000 : Message 172 Rejected: SendingTime accuracy problem
+20190709-09:55:36.039705000 : Tried to send a reject while not logged on
+20190709-09:55:36.039709000 : Disconnecting
+20190709-09:55:36.040249000 : Initiated logon request
+20190709-09:56:36.272416000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:56:36.277153000 : Initiated logon request
+20190709-09:56:36.286027000 : Message 173 Rejected: SendingTime accuracy problem
+20190709-09:56:36.286063000 : Tried to send a reject while not logged on
+20190709-09:56:36.286067000 : Disconnecting
+20190709-09:56:36.286620000 : Initiated logon request
+20190709-09:57:36.437713000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:57:36.444685000 : Initiated logon request
+20190709-09:57:36.448411000 : Message 174 Rejected: SendingTime accuracy problem
+20190709-09:57:36.448445000 : Tried to send a reject while not logged on
+20190709-09:57:36.448449000 : Disconnecting
+20190709-09:57:36.449095000 : Initiated logon request
+20190709-09:58:36.449200000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:58:36.453522000 : Initiated logon request
+20190709-09:58:36.471774000 : Message 175 Rejected: SendingTime accuracy problem
+20190709-09:58:36.471828000 : Tried to send a reject while not logged on
+20190709-09:58:36.471835000 : Disconnecting
+20190709-09:58:36.472754000 : Initiated logon request
+20190709-09:59:36.284639000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:59:36.290240000 : Initiated logon request
+20190709-09:59:36.295385000 : Message 176 Rejected: SendingTime accuracy problem
+20190709-09:59:36.295422000 : Tried to send a reject while not logged on
+20190709-09:59:36.295427000 : Disconnecting
+20190709-09:59:36.295930000 : Initiated logon request
+20190709-10:00:36.386084000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:00:36.391819000 : Initiated logon request
+20190709-10:00:36.399650000 : Message 177 Rejected: SendingTime accuracy problem
+20190709-10:00:36.399688000 : Tried to send a reject while not logged on
+20190709-10:00:36.399692000 : Disconnecting
+20190709-10:00:36.400383000 : Initiated logon request
+20190709-10:01:36.153421000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:01:36.159622000 : Initiated logon request
+20190709-10:01:36.163196000 : Message 178 Rejected: SendingTime accuracy problem
+20190709-10:01:36.163242000 : Tried to send a reject while not logged on
+20190709-10:01:36.163248000 : Disconnecting
+20190709-10:01:36.163977000 : Initiated logon request
+20190709-10:02:36.244810000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:02:36.249820000 : Initiated logon request
+20190709-10:02:36.256050000 : Message 179 Rejected: SendingTime accuracy problem
+20190709-10:02:36.256085000 : Tried to send a reject while not logged on
+20190709-10:02:36.256089000 : Disconnecting
+20190709-10:02:36.256571000 : Initiated logon request
+20190709-10:03:36.377978000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:03:36.382907000 : Initiated logon request
+20190709-10:03:36.392844000 : Message 180 Rejected: SendingTime accuracy problem
+20190709-10:03:36.392891000 : Tried to send a reject while not logged on
+20190709-10:03:36.392898000 : Disconnecting
+20190709-10:03:36.393570000 : Initiated logon request
+20190709-10:04:36.406383000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:04:36.413789000 : Initiated logon request
+20190709-10:04:36.430434000 : Message 181 Rejected: SendingTime accuracy problem
+20190709-10:04:36.430470000 : Tried to send a reject while not logged on
+20190709-10:04:36.430474000 : Disconnecting
+20190709-10:04:36.443578000 : Initiated logon request
+20190709-10:05:36.249504000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:05:36.272968000 : Initiated logon request
+20190709-10:05:36.283301000 : Message 182 Rejected: SendingTime accuracy problem
+20190709-10:05:36.283341000 : Tried to send a reject while not logged on
+20190709-10:05:36.283345000 : Disconnecting
+20190709-10:05:36.284049000 : Initiated logon request
+20190709-10:06:36.090482000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:06:36.094713000 : Initiated logon request
+20190709-10:06:36.105288000 : Message 183 Rejected: SendingTime accuracy problem
+20190709-10:06:36.105325000 : Tried to send a reject while not logged on
+20190709-10:06:36.105329000 : Disconnecting
+20190709-10:06:36.106095000 : Initiated logon request
+20190709-10:07:36.254989000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:07:36.261728000 : Initiated logon request
+20190709-10:07:36.269617000 : Message 184 Rejected: SendingTime accuracy problem
+20190709-10:07:36.269661000 : Tried to send a reject while not logged on
+20190709-10:07:36.269678000 : Disconnecting
+20190709-10:07:36.270323000 : Initiated logon request
+20190709-10:08:36.243678000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:08:36.253111000 : Initiated logon request
+20190709-10:08:36.258438000 : Message 185 Rejected: SendingTime accuracy problem
+20190709-10:08:36.258484000 : Tried to send a reject while not logged on
+20190709-10:08:36.258489000 : Disconnecting
+20190709-10:08:36.259211000 : Initiated logon request
+20190709-10:09:36.239795000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:09:36.251276000 : Initiated logon request
+20190709-10:09:36.256817000 : Message 186 Rejected: SendingTime accuracy problem
+20190709-10:09:36.256864000 : Tried to send a reject while not logged on
+20190709-10:09:36.256870000 : Disconnecting
+20190709-10:09:36.260685000 : Initiated logon request
+20190709-10:10:36.221508000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:10:36.226558000 : Initiated logon request
+20190709-10:10:36.235590000 : Message 187 Rejected: SendingTime accuracy problem
+20190709-10:10:36.235625000 : Tried to send a reject while not logged on
+20190709-10:10:36.235629000 : Disconnecting
+20190709-10:10:36.236112000 : Initiated logon request
+20190709-10:11:36.251213000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:11:36.256791000 : Initiated logon request
+20190709-10:11:36.260753000 : Message 188 Rejected: SendingTime accuracy problem
+20190709-10:11:36.260788000 : Tried to send a reject while not logged on
+20190709-10:11:36.260792000 : Disconnecting
+20190709-10:11:36.261201000 : Initiated logon request
+20190709-10:12:36.022671000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:12:36.028103000 : Initiated logon request
+20190709-10:12:36.033213000 : Message 189 Rejected: SendingTime accuracy problem
+20190709-10:12:36.033249000 : Tried to send a reject while not logged on
+20190709-10:12:36.033254000 : Disconnecting
+20190709-10:12:36.033870000 : Initiated logon request
+20190709-10:13:36.178777000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:13:36.182937000 : Initiated logon request
+20190709-10:13:36.187971000 : Message 190 Rejected: SendingTime accuracy problem
+20190709-10:13:36.188023000 : Tried to send a reject while not logged on
+20190709-10:13:36.188030000 : Disconnecting
+20190709-10:13:36.188760000 : Initiated logon request
+20190709-10:14:36.124758000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:14:36.130148000 : Initiated logon request
+20190709-10:14:36.134628000 : Message 191 Rejected: SendingTime accuracy problem
+20190709-10:14:36.134665000 : Tried to send a reject while not logged on
+20190709-10:14:36.134669000 : Disconnecting
+20190709-10:14:36.135326000 : Initiated logon request
+20190709-10:15:36.131592000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:15:36.135824000 : Initiated logon request
+20190709-10:15:36.141125000 : Message 192 Rejected: SendingTime accuracy problem
+20190709-10:15:36.141163000 : Tried to send a reject while not logged on
+20190709-10:15:36.141171000 : Disconnecting
+20190709-10:15:36.141655000 : Initiated logon request
+20190709-10:16:36.134964000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:16:36.142264000 : Initiated logon request
+20190709-10:16:36.146833000 : Message 193 Rejected: SendingTime accuracy problem
+20190709-10:16:36.146869000 : Tried to send a reject while not logged on
+20190709-10:16:36.146873000 : Disconnecting
+20190709-10:16:36.147474000 : Initiated logon request
+20190709-10:17:36.036288000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:17:36.048271000 : Initiated logon request
+20190709-10:17:36.053485000 : Message 194 Rejected: SendingTime accuracy problem
+20190709-10:17:36.053545000 : Tried to send a reject while not logged on
+20190709-10:17:36.053553000 : Disconnecting
+20190709-10:17:36.054437000 : Initiated logon request
+20190709-10:18:36.074154000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:18:36.079679000 : Initiated logon request
+20190709-10:18:36.084082000 : Message 195 Rejected: SendingTime accuracy problem
+20190709-10:18:36.084119000 : Tried to send a reject while not logged on
+20190709-10:18:36.084123000 : Disconnecting
+20190709-10:18:36.084820000 : Initiated logon request
+20190709-10:19:36.191700000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:19:36.203675000 : Initiated logon request
+20190709-10:19:36.212279000 : Message 196 Rejected: SendingTime accuracy problem
+20190709-10:19:36.212325000 : Tried to send a reject while not logged on
+20190709-10:19:36.212330000 : Disconnecting
+20190709-10:19:36.213080000 : Initiated logon request
+20190709-10:20:36.199627000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:20:36.205309000 : Initiated logon request
+20190709-10:20:36.209761000 : Message 197 Rejected: SendingTime accuracy problem
+20190709-10:20:36.209798000 : Tried to send a reject while not logged on
+20190709-10:20:36.209802000 : Disconnecting
+20190709-10:20:36.210324000 : Initiated logon request
+20190709-10:21:36.133478000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:21:36.142292000 : Initiated logon request
+20190709-10:21:36.149022000 : Message 198 Rejected: SendingTime accuracy problem
+20190709-10:21:36.149067000 : Tried to send a reject while not logged on
+20190709-10:21:36.149072000 : Disconnecting
+20190709-10:21:36.149794000 : Initiated logon request
+20190709-10:22:36.136155000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:22:36.143150000 : Initiated logon request
+20190709-10:22:36.150201000 : Message 199 Rejected: SendingTime accuracy problem
+20190709-10:22:36.150309000 : Tried to send a reject while not logged on
+20190709-10:22:36.150324000 : Disconnecting
+20190709-10:22:36.158213000 : Initiated logon request
+20190709-10:23:36.009970000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:23:36.015678000 : Initiated logon request
+20190709-10:23:36.020181000 : Message 200 Rejected: SendingTime accuracy problem
+20190709-10:23:36.020219000 : Tried to send a reject while not logged on
+20190709-10:23:36.020223000 : Disconnecting
+20190709-10:23:36.021148000 : Initiated logon request
+20190709-10:24:36.014196000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:24:36.020323000 : Initiated logon request
+20190709-10:24:36.025230000 : Message 201 Rejected: SendingTime accuracy problem
+20190709-10:24:36.025267000 : Tried to send a reject while not logged on
+20190709-10:24:36.025272000 : Disconnecting
+20190709-10:24:36.026022000 : Initiated logon request
+20190709-10:25:36.831417000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:25:36.838910000 : Initiated logon request
+20190709-10:25:36.841340000 : Message 202 Rejected: SendingTime accuracy problem
+20190709-10:25:36.841411000 : Tried to send a reject while not logged on
+20190709-10:25:36.841422000 : Disconnecting
+20190709-10:25:36.842305000 : Initiated logon request
+20190709-10:26:36.456335000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:26:36.460640000 : Initiated logon request
+20190709-10:26:36.464635000 : Message 203 Rejected: SendingTime accuracy problem
+20190709-10:26:36.464673000 : Tried to send a reject while not logged on
+20190709-10:26:36.464678000 : Disconnecting
+20190709-10:26:36.465381000 : Initiated logon request
+20190709-10:27:36.737858000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:27:36.743702000 : Initiated logon request
+20190709-10:27:36.752055000 : Message 204 Rejected: SendingTime accuracy problem
+20190709-10:27:36.752094000 : Tried to send a reject while not logged on
+20190709-10:27:36.752099000 : Disconnecting
+20190709-10:27:36.752679000 : Initiated logon request
+20190709-10:28:36.699435000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:28:36.704862000 : Initiated logon request
+20190709-10:28:36.708819000 : Message 205 Rejected: SendingTime accuracy problem
+20190709-10:28:36.708861000 : Tried to send a reject while not logged on
+20190709-10:28:36.708877000 : Disconnecting
+20190709-10:28:36.709459000 : Initiated logon request
+20190709-10:29:36.319462000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:29:36.326037000 : Initiated logon request
+20190709-10:29:36.336634000 : Message 206 Rejected: SendingTime accuracy problem
+20190709-10:29:36.336683000 : Tried to send a reject while not logged on
+20190709-10:29:36.336689000 : Disconnecting
+20190709-10:29:36.338572000 : Initiated logon request
+20190709-10:30:36.480717000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:30:36.489171000 : Initiated logon request
+20190709-10:30:36.494225000 : Message 207 Rejected: SendingTime accuracy problem
+20190709-10:30:36.494333000 : Tried to send a reject while not logged on
+20190709-10:30:36.494347000 : Disconnecting
+20190709-10:30:36.501995000 : Initiated logon request
+20190709-10:31:36.750791000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:31:36.755943000 : Initiated logon request
+20190709-10:31:36.760767000 : Message 208 Rejected: SendingTime accuracy problem
+20190709-10:31:36.760808000 : Tried to send a reject while not logged on
+20190709-10:31:36.760812000 : Disconnecting
+20190709-10:31:36.761356000 : Initiated logon request
+20190709-10:32:36.645729000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:32:36.652155000 : Initiated logon request
+20190709-10:32:36.659165000 : Message 209 Rejected: SendingTime accuracy problem
+20190709-10:32:36.659204000 : Tried to send a reject while not logged on
+20190709-10:32:36.659208000 : Disconnecting
+20190709-10:32:36.659784000 : Initiated logon request
+20190709-10:33:36.221022000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:33:36.225587000 : Initiated logon request
+20190709-10:33:36.229225000 : Message 210 Rejected: SendingTime accuracy problem
+20190709-10:33:36.229265000 : Tried to send a reject while not logged on
+20190709-10:33:36.229269000 : Disconnecting
+20190709-10:33:36.229890000 : Initiated logon request
+20190709-10:34:36.376282000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:34:36.395034000 : Initiated logon request
+20190709-10:34:36.401400000 : Message 211 Rejected: SendingTime accuracy problem
+20190709-10:34:36.404419000 : Tried to send a reject while not logged on
+20190709-10:34:36.404565000 : Disconnecting
+20190709-10:34:36.422154000 : Initiated logon request
+20190709-10:35:36.849885000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:35:36.855330000 : Initiated logon request
+20190709-10:35:36.860637000 : Message 212 Rejected: SendingTime accuracy problem
+20190709-10:35:36.860688000 : Tried to send a reject while not logged on
+20190709-10:35:36.860692000 : Disconnecting
+20190709-10:35:36.861379000 : Initiated logon request
+20190709-10:36:36.883764000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:36:36.888252000 : Initiated logon request
+20190709-10:36:36.893705000 : Message 213 Rejected: SendingTime accuracy problem
+20190709-10:36:36.893761000 : Tried to send a reject while not logged on
+20190709-10:36:36.893769000 : Disconnecting
+20190709-10:36:36.905623000 : Initiated logon request
+20190709-10:37:36.734397000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:37:36.743165000 : Initiated logon request
+20190709-10:37:36.747418000 : Message 214 Rejected: SendingTime accuracy problem
+20190709-10:37:36.747555000 : Tried to send a reject while not logged on
+20190709-10:37:36.747569000 : Disconnecting
+20190709-10:37:36.748252000 : Initiated logon request
+20190709-10:38:36.186501000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:38:36.191116000 : Initiated logon request
+20190709-10:38:36.194774000 : Message 215 Rejected: SendingTime accuracy problem
+20190709-10:38:36.194814000 : Tried to send a reject while not logged on
+20190709-10:38:36.194819000 : Disconnecting
+20190709-10:38:36.195410000 : Initiated logon request
+20190709-10:39:36.086738000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:39:36.095245000 : Initiated logon request
+20190709-10:39:36.100380000 : Message 216 Rejected: SendingTime accuracy problem
+20190709-10:39:36.100431000 : Tried to send a reject while not logged on
+20190709-10:39:36.100438000 : Disconnecting
+20190709-10:39:36.101175000 : Initiated logon request
+20190709-10:40:36.243213000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:40:36.249147000 : Initiated logon request
+20190709-10:40:36.253384000 : Message 217 Rejected: SendingTime accuracy problem
+20190709-10:40:36.253446000 : Tried to send a reject while not logged on
+20190709-10:40:36.253454000 : Disconnecting
+20190709-10:40:36.254347000 : Initiated logon request
+20190709-10:41:36.646035000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:41:36.657705000 : Initiated logon request
+20190709-10:41:36.662428000 : Message 218 Rejected: SendingTime accuracy problem
+20190709-10:41:36.662517000 : Tried to send a reject while not logged on
+20190709-10:41:36.662531000 : Disconnecting
+20190709-10:41:36.664752000 : Initiated logon request
+20190709-10:42:36.313004000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:42:36.320057000 : Initiated logon request
+20190709-10:42:36.324750000 : Message 219 Rejected: SendingTime accuracy problem
+20190709-10:42:36.324855000 : Tried to send a reject while not logged on
+20190709-10:42:36.324868000 : Disconnecting
+20190709-10:42:36.326965000 : Initiated logon request
+20190709-10:43:36.022334000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:43:36.036782000 : Initiated logon request
+20190709-10:43:36.039753000 : Message 220 Rejected: SendingTime accuracy problem
+20190709-10:43:36.050258000 : Tried to send a reject while not logged on
+20190709-10:43:36.050285000 : Disconnecting
+20190709-10:43:36.051931000 : Initiated logon request
+20190709-10:44:36.788724000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:44:36.832718000 : Initiated logon request
+20190709-10:44:36.845287000 : Message 221 Rejected: SendingTime accuracy problem
+20190709-10:44:36.845362000 : Tried to send a reject while not logged on
+20190709-10:44:36.845371000 : Disconnecting
+20190709-10:44:36.846517000 : Initiated logon request
+20190709-10:45:36.054244000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:45:36.087352000 : Initiated logon request
+20190709-10:45:36.092109000 : Message 222 Rejected: SendingTime accuracy problem
+20190709-10:45:36.092217000 : Tried to send a reject while not logged on
+20190709-10:45:36.092230000 : Disconnecting
+20190709-10:45:36.094100000 : Initiated logon request
+20190709-10:46:36.565094000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:46:36.638046000 : Initiated logon request
+20190709-10:46:36.646802000 : Message 223 Rejected: SendingTime accuracy problem
+20190709-10:46:36.646852000 : Tried to send a reject while not logged on
+20190709-10:46:36.646858000 : Disconnecting
+20190709-10:46:36.647758000 : Initiated logon request
+20190709-10:47:36.284983000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:47:36.290978000 : Initiated logon request
+20190709-10:47:36.295024000 : Message 224 Rejected: SendingTime accuracy problem
+20190709-10:47:36.295119000 : Tried to send a reject while not logged on
+20190709-10:47:36.295134000 : Disconnecting
+20190709-10:47:36.296716000 : Initiated logon request
+20190709-10:48:36.554834000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:48:36.562113000 : Initiated logon request
+20190709-10:48:36.567016000 : Message 225 Rejected: SendingTime accuracy problem
+20190709-10:48:36.567125000 : Tried to send a reject while not logged on
+20190709-10:48:36.567138000 : Disconnecting
+20190709-10:48:36.568934000 : Initiated logon request
+20190709-10:49:36.637791000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:49:36.644408000 : Initiated logon request
+20190709-10:49:36.656443000 : Message 226 Rejected: SendingTime accuracy problem
+20190709-10:49:36.656562000 : Tried to send a reject while not logged on
+20190709-10:49:36.656573000 : Disconnecting
+20190709-10:49:36.660960000 : Initiated logon request
+20190709-10:50:36.104511000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:50:36.109338000 : Initiated logon request
+20190709-10:50:36.113542000 : Message 227 Rejected: SendingTime accuracy problem
+20190709-10:50:36.113594000 : Tried to send a reject while not logged on
+20190709-10:50:36.113600000 : Disconnecting
+20190709-10:50:36.114557000 : Initiated logon request
+20190709-10:51:36.161942000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:51:36.169583000 : Initiated logon request
+20190709-10:51:36.194365000 : Message 228 Rejected: SendingTime accuracy problem
+20190709-10:51:36.194427000 : Tried to send a reject while not logged on
+20190709-10:51:36.194434000 : Disconnecting
+20190709-10:51:36.195561000 : Initiated logon request
+20190709-10:52:36.651931000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:52:36.661333000 : Initiated logon request
+20190709-10:52:36.667931000 : Message 229 Rejected: SendingTime accuracy problem
+20190709-10:52:36.668040000 : Tried to send a reject while not logged on
+20190709-10:52:36.668053000 : Disconnecting
+20190709-10:52:36.671521000 : Initiated logon request
+20190709-10:53:36.138611000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:53:36.144030000 : Initiated logon request
+20190709-10:53:36.149829000 : Message 230 Rejected: SendingTime accuracy problem
+20190709-10:53:36.149901000 : Tried to send a reject while not logged on
+20190709-10:53:36.149910000 : Disconnecting
+20190709-10:53:36.150982000 : Initiated logon request
+20190709-10:54:36.014730000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:54:36.020004000 : Initiated logon request
+20190709-10:54:36.024023000 : Message 231 Rejected: SendingTime accuracy problem
+20190709-10:54:36.024059000 : Tried to send a reject while not logged on
+20190709-10:54:36.024063000 : Disconnecting
+20190709-10:54:36.024823000 : Initiated logon request
+20190709-10:55:36.334500000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:55:36.401241000 : Initiated logon request
+20190709-10:55:36.423495000 : Message 232 Rejected: SendingTime accuracy problem
+20190709-10:55:36.423592000 : Tried to send a reject while not logged on
+20190709-10:55:36.423604000 : Disconnecting
+20190709-10:55:36.429541000 : Initiated logon request
+20190709-10:56:36.543990000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:56:36.555277000 : Initiated logon request
+20190709-10:56:36.563796000 : Message 233 Rejected: SendingTime accuracy problem
+20190709-10:56:36.563906000 : Tried to send a reject while not logged on
+20190709-10:56:36.563918000 : Disconnecting
+20190709-10:56:36.565678000 : Initiated logon request
+20190709-10:57:36.057361000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:57:36.064269000 : Initiated logon request
+20190709-10:57:36.069458000 : Message 234 Rejected: SendingTime accuracy problem
+20190709-10:57:36.069556000 : Tried to send a reject while not logged on
+20190709-10:57:36.069568000 : Disconnecting
+20190709-10:57:36.071412000 : Initiated logon request
+20190709-10:58:36.351333000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:58:36.359056000 : Initiated logon request
+20190709-10:58:36.363114000 : Message 235 Rejected: SendingTime accuracy problem
+20190709-10:58:36.363258000 : Tried to send a reject while not logged on
+20190709-10:58:36.363285000 : Disconnecting
+20190709-10:58:36.384800000 : Initiated logon request
+20190709-10:59:36.369242000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-10:59:36.378581000 : Initiated logon request
+20190709-10:59:36.384555000 : Message 236 Rejected: SendingTime accuracy problem
+20190709-10:59:36.384662000 : Tried to send a reject while not logged on
+20190709-10:59:36.384676000 : Disconnecting
+20190709-10:59:36.386421000 : Initiated logon request
+20190709-11:00:36.472282000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:00:36.473146000 : Initiated logon request
+20190709-11:00:36.473179000 : Socket Error: Connection reset by peer.
+20190709-11:00:36.473185000 : Disconnecting
+20190709-11:01:36.218349000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:01:36.227944000 : Initiated logon request
+20190709-11:01:36.236827000 : Message 237 Rejected: SendingTime accuracy problem
+20190709-11:01:36.236881000 : Tried to send a reject while not logged on
+20190709-11:01:36.236888000 : Disconnecting
+20190709-11:01:36.237630000 : Initiated logon request
+20190709-11:02:36.537811000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:02:36.538985000 : Initiated logon request
+20190709-11:02:36.539021000 : Socket Error: Connection reset by peer.
+20190709-11:02:36.539028000 : Disconnecting
+20190709-11:03:36.007339000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:03:36.009762000 : Initiated logon request
+20190709-11:03:36.009861000 : Socket Error: Connection reset by peer.
+20190709-11:03:36.009891000 : Disconnecting
+20190709-11:04:36.159748000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:04:36.161004000 : Initiated logon request
+20190709-11:04:36.161045000 : Socket Error: Connection reset by peer.
+20190709-11:04:36.161053000 : Disconnecting
+20190709-11:05:36.502237000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:05:36.503706000 : Initiated logon request
+20190709-11:05:36.503744000 : Socket Error: Connection reset by peer.
+20190709-11:05:36.503751000 : Disconnecting
+20190709-11:06:36.440663000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:06:36.441797000 : Initiated logon request
+20190709-11:06:36.441838000 : Socket Error: Connection reset by peer.
+20190709-11:06:36.441845000 : Disconnecting
+20190709-11:07:36.471208000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:07:36.472175000 : Initiated logon request
+20190709-11:07:36.472209000 : Socket Error: Connection reset by peer.
+20190709-11:07:36.472215000 : Disconnecting
+20190709-11:08:36.053758000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:08:36.055456000 : Initiated logon request
+20190709-11:08:36.055573000 : Socket Error: Connection reset by peer.
+20190709-11:08:36.055589000 : Disconnecting
+20190709-11:09:36.071057000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:09:36.072028000 : Initiated logon request
+20190709-11:09:36.072064000 : Socket Error: Connection reset by peer.
+20190709-11:09:36.072071000 : Disconnecting
+20190709-11:10:36.049468000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:10:36.050456000 : Initiated logon request
+20190709-11:10:36.050489000 : Socket Error: Connection reset by peer.
+20190709-11:10:36.050495000 : Disconnecting
+20190709-11:11:36.413976000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:11:36.417499000 : Initiated logon request
+20190709-11:11:36.417532000 : Socket Error: Connection reset by peer.
+20190709-11:11:36.417539000 : Disconnecting
+20190709-11:12:36.184568000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:12:36.185702000 : Initiated logon request
+20190709-11:12:36.185743000 : Socket Error: Connection reset by peer.
+20190709-11:12:36.185750000 : Disconnecting
+20190709-11:13:36.163123000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:15:46.689423000 : Initiated logon request
+20190709-11:15:46.689463000 : Socket Error: Connection reset by peer.
+20190709-11:15:46.689471000 : Disconnecting
+20190709-11:16:36.138358000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:18:46.912998000 : Initiated logon request
+20190709-11:18:46.913041000 : Socket Error: Connection reset by peer.
+20190709-11:18:46.913050000 : Disconnecting
+20190709-11:19:36.017197000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:21:47.136993000 : Initiated logon request
+20190709-11:21:47.137036000 : Socket Error: Connection reset by peer.
+20190709-11:21:47.137050000 : Disconnecting
+20190709-11:22:36.142240000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:24:45.313601000 : Initiated logon request
+20190709-11:24:45.313647000 : Socket Error: Connection reset by peer.
+20190709-11:24:45.313656000 : Disconnecting
+20190709-11:25:36.091498000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:27:45.536981000 : Initiated logon request
+20190709-11:27:45.537020000 : Socket Error: Connection reset by peer.
+20190709-11:27:45.537027000 : Disconnecting
+20190709-11:28:36.151652000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:30:45.761078000 : Initiated logon request
+20190709-11:30:45.761119000 : Socket Error: Connection reset by peer.
+20190709-11:30:45.761126000 : Disconnecting
+20190709-11:31:36.177695000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:33:45.985907000 : Initiated logon request
+20190709-11:33:45.986003000 : Socket Error: Connection reset by peer.
+20190709-11:33:45.986020000 : Disconnecting
+20190709-11:34:36.198130000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:36:46.208992000 : Initiated logon request
+20190709-11:36:46.209031000 : Socket Error: Connection reset by peer.
+20190709-11:36:46.209038000 : Disconnecting
+20190709-11:37:36.145609000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:39:46.433399000 : Initiated logon request
+20190709-11:39:46.433468000 : Socket Error: Connection reset by peer.
+20190709-11:39:46.433485000 : Disconnecting
+20190709-11:40:36.775169000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:42:46.657173000 : Initiated logon request
+20190709-11:42:46.657217000 : Socket Error: Connection reset by peer.
+20190709-11:42:46.657224000 : Disconnecting
+20190709-11:43:36.088608000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:45:46.881001000 : Initiated logon request
+20190709-11:45:46.881039000 : Socket Error: Connection reset by peer.
+20190709-11:45:46.881046000 : Disconnecting
+20190709-11:46:36.597117000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:48:47.106373000 : Initiated logon request
+20190709-11:48:47.106504000 : Socket Error: Connection reset by peer.
+20190709-11:48:47.106529000 : Disconnecting
+20190709-11:49:36.677304000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:51:47.330004000 : Initiated logon request
+20190709-11:51:47.330107000 : Socket Error: Connection reset by peer.
+20190709-11:51:47.330128000 : Disconnecting
+20190709-11:52:36.706288000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:54:47.554405000 : Initiated logon request
+20190709-11:54:47.554514000 : Socket Error: Connection reset by peer.
+20190709-11:54:47.554535000 : Disconnecting
+20190709-11:55:36.718506000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-11:57:47.777443000 : Initiated logon request
+20190709-11:57:47.777510000 : Socket Error: Connection reset by peer.
+20190709-11:57:47.777523000 : Disconnecting
+20190709-11:58:36.645706000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:00:45.952963000 : Initiated logon request
+20190709-12:00:45.953000000 : Socket Error: Connection reset by peer.
+20190709-12:00:45.953007000 : Disconnecting
+20190709-12:01:36.286415000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:03:46.177331000 : Initiated logon request
+20190709-12:03:46.177380000 : Socket Error: Connection reset by peer.
+20190709-12:03:46.177389000 : Disconnecting
+20190709-12:04:36.148504000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:06:46.401262000 : Initiated logon request
+20190709-12:06:46.401354000 : Socket Error: Connection reset by peer.
+20190709-12:06:46.401365000 : Disconnecting
+20190709-12:07:36.131964000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:07:36.135462000 : Initiated logon request
+20190709-12:07:36.135563000 : Socket Error: Connection reset by peer.
+20190709-12:07:36.135586000 : Disconnecting
+20190709-12:08:36.124443000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:08:36.126743000 : Initiated logon request
+20190709-12:08:36.126813000 : Socket Error: Connection reset by peer.
+20190709-12:08:36.126827000 : Disconnecting
+20190709-12:09:36.401488000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:09:36.403994000 : Initiated logon request
+20190709-12:09:36.404066000 : Socket Error: Connection reset by peer.
+20190709-12:09:36.404081000 : Disconnecting
+20190709-12:10:36.120861000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:10:36.122784000 : Initiated logon request
+20190709-12:10:36.122837000 : Socket Error: Connection reset by peer.
+20190709-12:10:36.122848000 : Disconnecting
+20190709-12:11:36.116330000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:11:36.119977000 : Initiated logon request
+20190709-12:11:36.120075000 : Socket Error: Connection reset by peer.
+20190709-12:11:36.120096000 : Disconnecting
+20190709-12:12:36.294049000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:12:36.296550000 : Initiated logon request
+20190709-12:12:36.296620000 : Socket Error: Connection reset by peer.
+20190709-12:12:36.296634000 : Disconnecting
+20190709-12:13:36.678075000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:13:36.679307000 : Initiated logon request
+20190709-12:13:36.679340000 : Socket Error: Connection reset by peer.
+20190709-12:13:36.679347000 : Disconnecting
+20190709-12:14:36.557683000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:14:36.559347000 : Initiated logon request
+20190709-12:14:36.559420000 : Socket Error: Connection reset by peer.
+20190709-12:14:36.559434000 : Disconnecting
+20190709-12:15:36.679086000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:15:36.680412000 : Initiated logon request
+20190709-12:15:36.680449000 : Socket Error: Connection reset by peer.
+20190709-12:15:36.680456000 : Disconnecting
+20190709-12:16:36.241538000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:16:36.246292000 : Initiated logon request
+20190709-12:16:36.246403000 : Socket Error: Connection reset by peer.
+20190709-12:16:36.246426000 : Disconnecting
+20190709-12:17:36.616026000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:17:36.617372000 : Initiated logon request
+20190709-12:17:36.617419000 : Socket Error: Connection reset by peer.
+20190709-12:17:36.617427000 : Disconnecting
+20190709-12:18:36.615648000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:18:36.616891000 : Initiated logon request
+20190709-12:18:36.616932000 : Socket Error: Connection reset by peer.
+20190709-12:18:36.616941000 : Disconnecting
+20190709-12:19:36.237400000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:19:36.238597000 : Initiated logon request
+20190709-12:19:36.238628000 : Socket Error: Connection reset by peer.
+20190709-12:19:36.238635000 : Disconnecting
+20190709-12:20:36.224374000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:20:36.225944000 : Initiated logon request
+20190709-12:20:36.225997000 : Socket Error: Connection reset by peer.
+20190709-12:20:36.226008000 : Disconnecting
+20190709-12:21:36.474817000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:21:36.477014000 : Initiated logon request
+20190709-12:21:36.477115000 : Socket Error: Connection reset by peer.
+20190709-12:21:36.477134000 : Disconnecting
+20190709-12:22:36.179990000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:22:36.181300000 : Initiated logon request
+20190709-12:22:36.181337000 : Socket Error: Connection reset by peer.
+20190709-12:22:36.181344000 : Disconnecting
+20190709-12:23:36.102755000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:23:36.104027000 : Initiated logon request
+20190709-12:23:36.104063000 : Socket Error: Connection reset by peer.
+20190709-12:23:36.104071000 : Disconnecting
+20190709-12:24:36.154790000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:24:36.156933000 : Initiated logon request
+20190709-12:24:36.156994000 : Socket Error: Connection reset by peer.
+20190709-12:24:36.157114000 : Disconnecting
+20190709-12:25:36.295882000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:25:36.297090000 : Initiated logon request
+20190709-12:25:36.297127000 : Socket Error: Connection reset by peer.
+20190709-12:25:36.297133000 : Disconnecting
+20190709-12:26:36.587113000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:26:36.588511000 : Initiated logon request
+20190709-12:26:36.588547000 : Socket Error: Connection reset by peer.
+20190709-12:26:36.588554000 : Disconnecting
+20190709-12:27:36.291798000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:27:36.294452000 : Initiated logon request
+20190709-12:27:36.294528000 : Socket Error: Connection reset by peer.
+20190709-12:27:36.294544000 : Disconnecting
+20190709-12:28:36.018713000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:28:36.020880000 : Initiated logon request
+20190709-12:28:36.020946000 : Socket Error: Connection reset by peer.
+20190709-12:28:36.020959000 : Disconnecting
+20190709-12:29:36.443635000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:29:36.444875000 : Initiated logon request
+20190709-12:29:36.444910000 : Socket Error: Connection reset by peer.
+20190709-12:29:36.444916000 : Disconnecting
+20190709-12:30:36.274636000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:30:36.277484000 : Initiated logon request
+20190709-12:30:36.277572000 : Socket Error: Connection reset by peer.
+20190709-12:30:36.277591000 : Disconnecting
+20190709-12:31:36.028113000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:31:36.029340000 : Initiated logon request
+20190709-12:31:36.029375000 : Socket Error: Connection reset by peer.
+20190709-12:31:36.029382000 : Disconnecting
+20190709-12:32:36.483465000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:32:36.484816000 : Initiated logon request
+20190709-12:32:36.484856000 : Socket Error: Connection reset by peer.
+20190709-12:32:36.484863000 : Disconnecting
+20190709-12:33:36.297113000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:33:36.298369000 : Initiated logon request
+20190709-12:33:36.298446000 : Socket Error: Connection reset by peer.
+20190709-12:33:36.298453000 : Disconnecting
+20190709-12:34:36.120390000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:34:36.121697000 : Initiated logon request
+20190709-12:34:36.121736000 : Socket Error: Connection reset by peer.
+20190709-12:34:36.121743000 : Disconnecting
+20190709-12:35:36.536710000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:35:36.538153000 : Initiated logon request
+20190709-12:35:36.538196000 : Socket Error: Connection reset by peer.
+20190709-12:35:36.538205000 : Disconnecting
+20190709-12:36:36.234303000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:36:36.236728000 : Initiated logon request
+20190709-12:36:36.236787000 : Socket Error: Connection reset by peer.
+20190709-12:36:36.236799000 : Disconnecting
+20190709-12:37:36.420671000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:37:36.424093000 : Initiated logon request
+20190709-12:37:36.424190000 : Socket Error: Connection reset by peer.
+20190709-12:37:36.424211000 : Disconnecting
+20190709-12:38:36.351315000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:38:36.354142000 : Initiated logon request
+20190709-12:38:36.354221000 : Socket Error: Connection reset by peer.
+20190709-12:38:36.354238000 : Disconnecting
+20190709-12:39:36.068771000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:39:36.069916000 : Initiated logon request
+20190709-12:39:36.069953000 : Socket Error: Connection reset by peer.
+20190709-12:39:36.069960000 : Disconnecting
+20190709-12:40:36.244678000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:40:36.246126000 : Initiated logon request
+20190709-12:40:36.246166000 : Socket Error: Connection reset by peer.
+20190709-12:40:36.246174000 : Disconnecting
+20190709-12:41:36.224626000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:41:36.227357000 : Initiated logon request
+20190709-12:41:36.227445000 : Socket Error: Connection reset by peer.
+20190709-12:41:36.227462000 : Disconnecting
+20190709-12:42:36.430055000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:42:36.433469000 : Initiated logon request
+20190709-12:42:36.433543000 : Socket Error: Connection reset by peer.
+20190709-12:42:36.433559000 : Disconnecting
+20190709-12:43:36.241665000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:43:36.243143000 : Initiated logon request
+20190709-12:43:36.243181000 : Socket Error: Connection reset by peer.
+20190709-12:43:36.243188000 : Disconnecting
+20190709-12:44:36.333835000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:44:36.335184000 : Initiated logon request
+20190709-12:44:36.335221000 : Socket Error: Connection reset by peer.
+20190709-12:44:36.335228000 : Disconnecting
+20190709-12:45:36.137276000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:45:36.139274000 : Initiated logon request
+20190709-12:45:36.139314000 : Socket Error: Connection reset by peer.
+20190709-12:45:36.139322000 : Disconnecting
+20190709-12:46:36.146944000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:46:36.148261000 : Initiated logon request
+20190709-12:46:36.148297000 : Socket Error: Connection reset by peer.
+20190709-12:46:36.148304000 : Disconnecting
+20190709-12:47:36.336971000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:47:36.338945000 : Initiated logon request
+20190709-12:47:36.339021000 : Socket Error: Connection reset by peer.
+20190709-12:47:36.339037000 : Disconnecting
+20190709-12:48:36.069476000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:48:36.070886000 : Initiated logon request
+20190709-12:48:36.070930000 : Socket Error: Connection reset by peer.
+20190709-12:48:36.070938000 : Disconnecting
+20190709-12:49:36.357666000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:49:36.361479000 : Initiated logon request
+20190709-12:49:36.361561000 : Socket Error: Connection reset by peer.
+20190709-12:49:36.361578000 : Disconnecting
+20190709-12:50:36.489075000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:50:36.491221000 : Initiated logon request
+20190709-12:50:36.491272000 : Socket Error: Connection reset by peer.
+20190709-12:50:36.491281000 : Disconnecting
+20190709-12:51:36.032726000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:51:36.035695000 : Initiated logon request
+20190709-12:51:36.035793000 : Socket Error: Connection reset by peer.
+20190709-12:51:36.035815000 : Disconnecting
+20190709-12:52:36.300111000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:52:36.301549000 : Initiated logon request
+20190709-12:52:36.301588000 : Socket Error: Connection reset by peer.
+20190709-12:52:36.301595000 : Disconnecting
+20190709-12:53:36.392737000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:53:36.394045000 : Initiated logon request
+20190709-12:53:36.394082000 : Socket Error: Connection reset by peer.
+20190709-12:53:36.394089000 : Disconnecting
+20190709-12:54:36.238698000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:54:36.240030000 : Initiated logon request
+20190709-12:54:36.240067000 : Socket Error: Connection reset by peer.
+20190709-12:54:36.240074000 : Disconnecting
+20190709-12:55:36.306988000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:55:36.309543000 : Initiated logon request
+20190709-12:55:36.309620000 : Socket Error: Connection reset by peer.
+20190709-12:55:36.309636000 : Disconnecting
+20190709-12:56:36.369466000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:56:36.372537000 : Initiated logon request
+20190709-12:56:36.372631000 : Socket Error: Connection reset by peer.
+20190709-12:56:36.372742000 : Disconnecting
+20190709-12:57:36.292227000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:57:36.293727000 : Initiated logon request
+20190709-12:57:36.293764000 : Socket Error: Connection reset by peer.
+20190709-12:57:36.293771000 : Disconnecting
+20190709-12:58:36.102850000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:58:36.104077000 : Initiated logon request
+20190709-12:58:36.104113000 : Socket Error: Connection reset by peer.
+20190709-12:58:36.104120000 : Disconnecting
+20190709-12:59:36.158261000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-12:59:36.160748000 : Initiated logon request
+20190709-12:59:36.160814000 : Socket Error: Connection reset by peer.
+20190709-12:59:36.160829000 : Disconnecting
+20190709-13:00:36.258459000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:00:36.259852000 : Initiated logon request
+20190709-13:00:36.259891000 : Socket Error: Connection reset by peer.
+20190709-13:00:36.259899000 : Disconnecting
+20190709-13:01:36.372189000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:01:36.373554000 : Initiated logon request
+20190709-13:01:36.373593000 : Socket Error: Connection reset by peer.
+20190709-13:01:36.373600000 : Disconnecting
+20190709-13:02:36.344360000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:02:36.345781000 : Initiated logon request
+20190709-13:02:36.345827000 : Socket Error: Connection reset by peer.
+20190709-13:02:36.345834000 : Disconnecting
+20190709-13:03:36.040437000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:03:36.044402000 : Initiated logon request
+20190709-13:03:36.044590000 : Socket Error: Connection reset by peer.
+20190709-13:03:36.044626000 : Disconnecting
+20190709-13:04:36.227518000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:04:36.228857000 : Initiated logon request
+20190709-13:04:36.228892000 : Socket Error: Connection reset by peer.
+20190709-13:04:36.228898000 : Disconnecting
+20190709-13:05:36.125280000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:05:36.127211000 : Initiated logon request
+20190709-13:05:36.127268000 : Socket Error: Connection reset by peer.
+20190709-13:05:36.127280000 : Disconnecting
+20190709-13:06:36.131475000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:06:36.134262000 : Initiated logon request
+20190709-13:06:36.134334000 : Socket Error: Connection reset by peer.
+20190709-13:06:36.134349000 : Disconnecting
+20190709-13:07:36.164124000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:07:36.165501000 : Initiated logon request
+20190709-13:07:36.165547000 : Socket Error: Connection reset by peer.
+20190709-13:07:36.165555000 : Disconnecting
+20190709-13:08:36.012476000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:08:36.013938000 : Initiated logon request
+20190709-13:08:36.013976000 : Socket Error: Connection reset by peer.
+20190709-13:08:36.013983000 : Disconnecting
+20190709-13:09:36.225718000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:09:36.227405000 : Initiated logon request
+20190709-13:09:36.227447000 : Socket Error: Connection reset by peer.
+20190709-13:09:36.227454000 : Disconnecting
+20190709-13:10:36.016240000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:10:36.017731000 : Initiated logon request
+20190709-13:10:36.017781000 : Socket Error: Connection reset by peer.
+20190709-13:10:36.017791000 : Disconnecting
+20190709-13:11:36.032148000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:11:36.035558000 : Initiated logon request
+20190709-13:11:36.035633000 : Socket Error: Connection reset by peer.
+20190709-13:11:36.035649000 : Disconnecting
+20190709-13:12:36.051255000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:12:36.053477000 : Initiated logon request
+20190709-13:12:36.053540000 : Socket Error: Connection reset by peer.
+20190709-13:12:36.053563000 : Disconnecting
+20190709-13:13:36.054043000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:13:36.055617000 : Initiated logon request
+20190709-13:13:36.055657000 : Socket Error: Connection reset by peer.
+20190709-13:13:36.055665000 : Disconnecting
+20190709-13:14:36.200546000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:14:36.201804000 : Initiated logon request
+20190709-13:14:36.201839000 : Socket Error: Connection reset by peer.
+20190709-13:14:36.201846000 : Disconnecting
+20190709-13:15:36.131987000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:15:36.136255000 : Initiated logon request
+20190709-13:15:36.136389000 : Socket Error: Connection reset by peer.
+20190709-13:15:36.136419000 : Disconnecting
+20190709-13:16:36.042548000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:16:36.043769000 : Initiated logon request
+20190709-13:16:36.043804000 : Socket Error: Connection reset by peer.
+20190709-13:16:36.043810000 : Disconnecting
+20190709-13:17:36.068915000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:17:36.071492000 : Initiated logon request
+20190709-13:17:36.071602000 : Socket Error: Connection reset by peer.
+20190709-13:17:36.071622000 : Disconnecting
+20190709-13:18:36.039582000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:18:36.042602000 : Initiated logon request
+20190709-13:18:36.042677000 : Socket Error: Connection reset by peer.
+20190709-13:18:36.042693000 : Disconnecting
+20190709-13:19:36.784583000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:19:36.786544000 : Initiated logon request
+20190709-13:19:36.786588000 : Socket Error: Connection reset by peer.
+20190709-13:19:36.786597000 : Disconnecting
+20190709-13:20:36.646830000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:20:36.648297000 : Initiated logon request
+20190709-13:20:36.648348000 : Socket Error: Connection reset by peer.
+20190709-13:20:36.648359000 : Disconnecting
+20190709-13:21:36.222646000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:21:36.223982000 : Initiated logon request
+20190709-13:21:36.224019000 : Socket Error: Connection reset by peer.
+20190709-13:21:36.224026000 : Disconnecting
+20190709-13:22:36.493899000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:22:36.497430000 : Initiated logon request
+20190709-13:22:36.497504000 : Socket Error: Connection reset by peer.
+20190709-13:22:36.497638000 : Disconnecting
+20190709-13:23:36.406073000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:23:36.407312000 : Initiated logon request
+20190709-13:23:36.407349000 : Socket Error: Connection reset by peer.
+20190709-13:23:36.407356000 : Disconnecting
+20190709-13:24:36.037325000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:24:36.038661000 : Initiated logon request
+20190709-13:24:36.038698000 : Socket Error: Connection reset by peer.
+20190709-13:24:36.038705000 : Disconnecting
+20190709-13:25:36.352345000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:25:36.354551000 : Initiated logon request
+20190709-13:25:36.354618000 : Socket Error: Connection reset by peer.
+20190709-13:25:36.354632000 : Disconnecting
+20190709-13:26:36.328099000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:26:36.329401000 : Initiated logon request
+20190709-13:26:36.329442000 : Socket Error: Connection reset by peer.
+20190709-13:26:36.329449000 : Disconnecting
+20190709-13:27:36.960918000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:27:36.962495000 : Initiated logon request
+20190709-13:27:36.962533000 : Socket Error: Connection reset by peer.
+20190709-13:27:36.962540000 : Disconnecting
+20190709-13:28:36.325264000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:28:36.326427000 : Initiated logon request
+20190709-13:28:36.326464000 : Socket Error: Connection reset by peer.
+20190709-13:28:36.326474000 : Disconnecting
+20190709-13:29:36.356415000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:29:36.357491000 : Initiated logon request
+20190709-13:29:36.357523000 : Socket Error: Connection reset by peer.
+20190709-13:29:36.357529000 : Disconnecting
+20190709-13:30:36.085329000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:30:36.086787000 : Initiated logon request
+20190709-13:30:36.086833000 : Socket Error: Connection reset by peer.
+20190709-13:30:36.086842000 : Disconnecting
+20190709-13:31:36.407591000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:31:36.410176000 : Initiated logon request
+20190709-13:31:36.410251000 : Socket Error: Connection reset by peer.
+20190709-13:31:36.410267000 : Disconnecting
+20190709-13:32:36.352402000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:32:36.353763000 : Initiated logon request
+20190709-13:32:36.353827000 : Socket Error: Connection reset by peer.
+20190709-13:32:36.353836000 : Disconnecting
+20190709-13:33:36.890610000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:33:36.891815000 : Initiated logon request
+20190709-13:33:36.891854000 : Socket Error: Connection reset by peer.
+20190709-13:33:36.891861000 : Disconnecting
+20190709-13:34:36.164138000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:34:36.165483000 : Initiated logon request
+20190709-13:34:36.165520000 : Socket Error: Connection reset by peer.
+20190709-13:34:36.165527000 : Disconnecting
+20190709-13:35:36.917268000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:35:36.918582000 : Initiated logon request
+20190709-13:35:36.918620000 : Socket Error: Connection reset by peer.
+20190709-13:35:36.918626000 : Disconnecting
+20190709-13:36:36.414651000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:36:36.416091000 : Initiated logon request
+20190709-13:36:36.416125000 : Socket Error: Connection reset by peer.
+20190709-13:36:36.416131000 : Disconnecting
+20190709-13:37:36.477394000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:37:36.478579000 : Initiated logon request
+20190709-13:37:36.478616000 : Socket Error: Connection reset by peer.
+20190709-13:37:36.478622000 : Disconnecting
+20190709-13:38:36.194174000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:38:36.195825000 : Initiated logon request
+20190709-13:38:36.195877000 : Socket Error: Connection reset by peer.
+20190709-13:38:36.195887000 : Disconnecting
+20190709-13:39:36.456059000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:39:36.458404000 : Initiated logon request
+20190709-13:39:36.458464000 : Socket Error: Connection reset by peer.
+20190709-13:39:36.458477000 : Disconnecting
+20190709-13:40:36.349093000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:40:36.350458000 : Initiated logon request
+20190709-13:40:36.350535000 : Socket Error: Connection reset by peer.
+20190709-13:40:36.350545000 : Disconnecting
+20190709-13:41:36.755886000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:41:36.757569000 : Initiated logon request
+20190709-13:41:36.757604000 : Socket Error: Connection reset by peer.
+20190709-13:41:36.757610000 : Disconnecting
+20190709-13:42:36.813828000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:42:36.815075000 : Initiated logon request
+20190709-13:42:36.815110000 : Socket Error: Connection reset by peer.
+20190709-13:42:36.815116000 : Disconnecting
+20190709-13:43:36.502406000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:43:36.503658000 : Initiated logon request
+20190709-13:43:36.503697000 : Socket Error: Connection reset by peer.
+20190709-13:43:36.503704000 : Disconnecting
+20190709-13:44:36.711487000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:44:36.714522000 : Initiated logon request
+20190709-13:44:36.714599000 : Socket Error: Connection reset by peer.
+20190709-13:44:36.714615000 : Disconnecting
+20190709-13:45:36.464427000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:45:36.465762000 : Initiated logon request
+20190709-13:45:36.465805000 : Socket Error: Connection reset by peer.
+20190709-13:45:36.465817000 : Disconnecting
+20190709-13:46:36.675911000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:46:36.677467000 : Initiated logon request
+20190709-13:46:36.677510000 : Socket Error: Connection reset by peer.
+20190709-13:46:36.677517000 : Disconnecting
+20190709-13:47:36.487977000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:47:36.491391000 : Initiated logon request
+20190709-13:47:36.491485000 : Socket Error: Connection reset by peer.
+20190709-13:47:36.491505000 : Disconnecting
+20190709-13:48:36.661033000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:48:36.662438000 : Initiated logon request
+20190709-13:48:36.662482000 : Socket Error: Connection reset by peer.
+20190709-13:48:36.662491000 : Disconnecting
+20190709-13:49:36.402870000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:49:36.406728000 : Initiated logon request
+20190709-13:49:36.406826000 : Socket Error: Connection reset by peer.
+20190709-13:49:36.406847000 : Disconnecting
+20190709-13:50:36.471468000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:50:36.473789000 : Initiated logon request
+20190709-13:50:36.473855000 : Socket Error: Connection reset by peer.
+20190709-13:50:36.473869000 : Disconnecting
+20190709-13:51:36.063037000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:51:36.065942000 : Initiated logon request
+20190709-13:51:36.066010000 : Socket Error: Connection reset by peer.
+20190709-13:51:36.066024000 : Disconnecting
+20190709-13:52:36.800445000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:52:36.804078000 : Initiated logon request
+20190709-13:52:36.804175000 : Socket Error: Connection reset by peer.
+20190709-13:52:36.804196000 : Disconnecting
+20190709-13:53:36.182591000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:53:36.183972000 : Initiated logon request
+20190709-13:53:36.184008000 : Socket Error: Connection reset by peer.
+20190709-13:53:36.184016000 : Disconnecting
+20190709-13:54:36.753503000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:54:36.754704000 : Initiated logon request
+20190709-13:54:36.754740000 : Socket Error: Connection reset by peer.
+20190709-13:54:36.754746000 : Disconnecting
+20190709-13:55:36.063369000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:55:36.065478000 : Initiated logon request
+20190709-13:55:36.065559000 : Socket Error: Connection reset by peer.
+20190709-13:55:36.065583000 : Disconnecting
+20190709-13:56:36.493091000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:56:36.495819000 : Initiated logon request
+20190709-13:56:36.495898000 : Socket Error: Connection reset by peer.
+20190709-13:56:36.495916000 : Disconnecting
+20190709-13:57:36.402715000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:57:36.403947000 : Initiated logon request
+20190709-13:57:36.403985000 : Socket Error: Connection reset by peer.
+20190709-13:57:36.403992000 : Disconnecting
+20190709-13:58:36.627720000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:58:36.628997000 : Initiated logon request
+20190709-13:58:36.629032000 : Socket Error: Connection reset by peer.
+20190709-13:58:36.629039000 : Disconnecting
+20190709-13:59:36.382504000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-13:59:36.384082000 : Initiated logon request
+20190709-13:59:36.384135000 : Socket Error: Connection reset by peer.
+20190709-13:59:36.384145000 : Disconnecting
+20190709-14:00:36.424147000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:00:36.425517000 : Initiated logon request
+20190709-14:00:36.425555000 : Socket Error: Connection reset by peer.
+20190709-14:00:36.425562000 : Disconnecting
+20190709-14:01:36.008044000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:01:36.009347000 : Initiated logon request
+20190709-14:01:36.009387000 : Socket Error: Connection reset by peer.
+20190709-14:01:36.009394000 : Disconnecting
+20190709-14:02:36.619116000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:02:36.620367000 : Initiated logon request
+20190709-14:02:36.620405000 : Socket Error: Connection reset by peer.
+20190709-14:02:36.620412000 : Disconnecting
+20190709-14:03:36.737264000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:03:36.740159000 : Initiated logon request
+20190709-14:03:36.740228000 : Socket Error: Connection reset by peer.
+20190709-14:03:36.740243000 : Disconnecting
+20190709-14:04:36.261657000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:04:36.264059000 : Initiated logon request
+20190709-14:04:36.264122000 : Socket Error: Connection reset by peer.
+20190709-14:04:36.264136000 : Disconnecting
+20190709-14:05:36.652945000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:05:36.655365000 : Initiated logon request
+20190709-14:05:36.655447000 : Socket Error: Connection reset by peer.
+20190709-14:05:36.655464000 : Disconnecting
+20190709-14:06:36.302678000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:06:36.304224000 : Initiated logon request
+20190709-14:06:36.304261000 : Socket Error: Connection reset by peer.
+20190709-14:06:36.304268000 : Disconnecting
+20190709-14:07:36.195995000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:07:36.198939000 : Initiated logon request
+20190709-14:07:36.199054000 : Socket Error: Connection reset by peer.
+20190709-14:07:36.199077000 : Disconnecting
+20190709-14:08:36.133947000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:08:36.134963000 : Initiated logon request
+20190709-14:08:36.135004000 : Socket Error: Connection reset by peer.
+20190709-14:08:36.135011000 : Disconnecting
+20190709-14:09:36.282214000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:09:36.285235000 : Initiated logon request
+20190709-14:09:36.285336000 : Socket Error: Connection reset by peer.
+20190709-14:09:36.285358000 : Disconnecting
+20190709-14:10:36.538110000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:10:36.539807000 : Initiated logon request
+20190709-14:10:36.539860000 : Socket Error: Connection reset by peer.
+20190709-14:10:36.539871000 : Disconnecting
+20190709-14:11:36.193064000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:11:36.194028000 : Initiated logon request
+20190709-14:11:36.194065000 : Socket Error: Connection reset by peer.
+20190709-14:11:36.194072000 : Disconnecting
+20190709-14:12:36.606276000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:12:36.615933000 : Initiated logon request
+20190709-14:12:36.616056000 : Socket Error: Connection reset by peer.
+20190709-14:12:36.616083000 : Disconnecting
+20190709-14:13:36.522785000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:13:36.524809000 : Initiated logon request
+20190709-14:13:36.524893000 : Socket Error: Connection reset by peer.
+20190709-14:13:36.524911000 : Disconnecting
+20190709-14:14:36.433573000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:14:36.434588000 : Initiated logon request
+20190709-14:14:36.434625000 : Socket Error: Connection reset by peer.
+20190709-14:14:36.434631000 : Disconnecting
+20190709-14:15:36.360336000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:15:36.361176000 : Initiated logon request
+20190709-14:15:36.361223000 : Socket Error: Connection reset by peer.
+20190709-14:15:36.361233000 : Disconnecting
+20190709-14:16:36.203722000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:16:36.204586000 : Initiated logon request
+20190709-14:16:36.204619000 : Socket Error: Connection reset by peer.
+20190709-14:16:36.204673000 : Disconnecting
+20190709-14:17:36.461797000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:17:36.464629000 : Initiated logon request
+20190709-14:17:36.464773000 : Socket Error: Connection reset by peer.
+20190709-14:17:36.464792000 : Disconnecting
+20190709-14:18:36.264265000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:18:36.266663000 : Initiated logon request
+20190709-14:18:36.266819000 : Socket Error: Connection reset by peer.
+20190709-14:18:36.266846000 : Disconnecting
+20190709-14:19:36.197673000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:19:36.200175000 : Initiated logon request
+20190709-14:19:36.200343000 : Socket Error: Connection reset by peer.
+20190709-14:19:36.200374000 : Disconnecting
+20190709-14:20:36.168923000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:20:36.171089000 : Initiated logon request
+20190709-14:20:36.171168000 : Socket Error: Connection reset by peer.
+20190709-14:20:36.171185000 : Disconnecting
+20190709-14:21:36.139975000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:21:36.142468000 : Initiated logon request
+20190709-14:21:36.142714000 : Socket Error: Connection reset by peer.
+20190709-14:21:36.142744000 : Disconnecting
+20190709-14:22:36.508545000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:22:36.509523000 : Initiated logon request
+20190709-14:22:36.509559000 : Socket Error: Connection reset by peer.
+20190709-14:22:36.509567000 : Disconnecting
+20190709-14:23:36.238029000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:23:36.240325000 : Initiated logon request
+20190709-14:23:36.240447000 : Socket Error: Connection reset by peer.
+20190709-14:23:36.240476000 : Disconnecting
+20190709-14:24:36.259595000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:24:36.262340000 : Initiated logon request
+20190709-14:24:36.262441000 : Socket Error: Connection reset by peer.
+20190709-14:24:36.262462000 : Disconnecting
+20190709-14:25:36.465020000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:25:36.466298000 : Initiated logon request
+20190709-14:25:36.466347000 : Socket Error: Connection reset by peer.
+20190709-14:25:36.466357000 : Disconnecting
+20190709-14:26:36.318834000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:26:36.321682000 : Initiated logon request
+20190709-14:26:36.321780000 : Socket Error: Connection reset by peer.
+20190709-14:26:36.321801000 : Disconnecting
+20190709-14:27:36.041163000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:27:36.043614000 : Initiated logon request
+20190709-14:27:36.043694000 : Socket Error: Connection reset by peer.
+20190709-14:27:36.043711000 : Disconnecting
+20190709-14:28:36.053235000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:28:36.054427000 : Initiated logon request
+20190709-14:28:36.054475000 : Socket Error: Connection reset by peer.
+20190709-14:28:36.054484000 : Disconnecting
+20190709-14:29:36.346099000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:29:36.348677000 : Initiated logon request
+20190709-14:29:36.348892000 : Socket Error: Connection reset by peer.
+20190709-14:29:36.348919000 : Disconnecting
+20190709-14:30:36.378164000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:30:36.381273000 : Initiated logon request
+20190709-14:30:36.381373000 : Socket Error: Connection reset by peer.
+20190709-14:30:36.381395000 : Disconnecting
+20190709-14:31:36.144273000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:31:36.146576000 : Initiated logon request
+20190709-14:31:36.146675000 : Socket Error: Connection reset by peer.
+20190709-14:31:36.147013000 : Disconnecting
+20190709-14:32:36.288771000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:32:36.289729000 : Initiated logon request
+20190709-14:32:36.289766000 : Socket Error: Connection reset by peer.
+20190709-14:32:36.289772000 : Disconnecting
+20190709-14:33:36.266940000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:33:36.269982000 : Initiated logon request
+20190709-14:33:36.270081000 : Socket Error: Connection reset by peer.
+20190709-14:33:36.270118000 : Disconnecting
+20190709-14:34:36.004444000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:34:36.006935000 : Initiated logon request
+20190709-14:34:36.007035000 : Socket Error: Connection reset by peer.
+20190709-14:34:36.007055000 : Disconnecting
+20190709-14:35:36.310180000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:35:36.312928000 : Initiated logon request
+20190709-14:35:36.313023000 : Socket Error: Connection reset by peer.
+20190709-14:35:36.313044000 : Disconnecting
+20190709-14:36:36.049433000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:36:36.050939000 : Initiated logon request
+20190709-14:36:36.050989000 : Socket Error: Connection reset by peer.
+20190709-14:36:36.050999000 : Disconnecting
+20190709-14:37:36.002827000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:37:36.004125000 : Initiated logon request
+20190709-14:37:36.004171000 : Socket Error: Connection reset by peer.
+20190709-14:37:36.004180000 : Disconnecting
+20190709-14:38:36.096030000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:39:41.446288000 : Initiated logon request
+20190709-14:39:41.470196000 : Message 1 Rejected: SendingTime accuracy problem
+20190709-14:39:41.470270000 : Tried to send a reject while not logged on
+20190709-14:39:41.470280000 : Disconnecting
+20190709-14:39:41.471504000 : Initiated logon request
+20190709-14:40:36.279193000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:40:36.285790000 : Initiated logon request
+20190709-14:40:36.290697000 : Message 2 Rejected: SendingTime accuracy problem
+20190709-14:40:36.290740000 : Tried to send a reject while not logged on
+20190709-14:40:36.290745000 : Disconnecting
+20190709-14:40:36.291523000 : Initiated logon request
+20190709-14:41:36.075130000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:41:36.084069000 : Initiated logon request
+20190709-14:41:36.098097000 : Message 3 Rejected: SendingTime accuracy problem
+20190709-14:41:36.098147000 : Tried to send a reject while not logged on
+20190709-14:41:36.098157000 : Disconnecting
+20190709-14:41:36.099068000 : Initiated logon request
+20190709-14:42:36.232555000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:42:36.241184000 : Initiated logon request
+20190709-14:42:36.261162000 : Message 4 Rejected: SendingTime accuracy problem
+20190709-14:42:36.261218000 : Tried to send a reject while not logged on
+20190709-14:42:36.261225000 : Disconnecting
+20190709-14:42:36.262286000 : Initiated logon request
+20190709-14:43:36.176902000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:43:36.181047000 : Initiated logon request
+20190709-14:43:36.185214000 : Message 5 Rejected: SendingTime accuracy problem
+20190709-14:43:36.185251000 : Tried to send a reject while not logged on
+20190709-14:43:36.185255000 : Disconnecting
+20190709-14:43:36.185752000 : Initiated logon request
+20190709-14:44:36.203462000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:44:36.214863000 : Initiated logon request
+20190709-14:44:36.271936000 : Message 6 Rejected: SendingTime accuracy problem
+20190709-14:44:36.271980000 : Tried to send a reject while not logged on
+20190709-14:44:36.271985000 : Disconnecting
+20190709-14:44:36.275995000 : Initiated logon request
+20190709-14:45:36.017453000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:45:36.022119000 : Initiated logon request
+20190709-14:45:36.026452000 : Message 7 Rejected: SendingTime accuracy problem
+20190709-14:45:36.026496000 : Tried to send a reject while not logged on
+20190709-14:45:36.026501000 : Disconnecting
+20190709-14:45:36.027170000 : Initiated logon request
+20190709-14:46:36.031417000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:46:36.036565000 : Initiated logon request
+20190709-14:46:36.042602000 : Message 8 Rejected: SendingTime accuracy problem
+20190709-14:46:36.042653000 : Tried to send a reject while not logged on
+20190709-14:46:36.042678000 : Disconnecting
+20190709-14:46:36.043619000 : Initiated logon request
+20190709-14:47:36.044669000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:47:36.049726000 : Initiated logon request
+20190709-14:47:36.053207000 : Message 9 Rejected: SendingTime accuracy problem
+20190709-14:47:36.053242000 : Tried to send a reject while not logged on
+20190709-14:47:36.053246000 : Disconnecting
+20190709-14:47:36.053969000 : Initiated logon request
+20190709-14:48:36.484751000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:48:36.491057000 : Initiated logon request
+20190709-14:48:36.495530000 : Message 10 Rejected: SendingTime accuracy problem
+20190709-14:48:36.495620000 : Tried to send a reject while not logged on
+20190709-14:48:36.495630000 : Disconnecting
+20190709-14:48:36.497001000 : Initiated logon request
+20190709-14:49:36.981548000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:49:36.988155000 : Initiated logon request
+20190709-14:49:36.994352000 : Message 11 Rejected: SendingTime accuracy problem
+20190709-14:49:36.994406000 : Tried to send a reject while not logged on
+20190709-14:49:36.994413000 : Disconnecting
+20190709-14:49:36.995932000 : Initiated logon request
+20190709-14:50:36.057036000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:50:36.065431000 : Initiated logon request
+20190709-14:50:36.070965000 : Message 12 Rejected: SendingTime accuracy problem
+20190709-14:50:36.071072000 : Tried to send a reject while not logged on
+20190709-14:50:36.071088000 : Disconnecting
+20190709-14:50:36.075788000 : Initiated logon request
+20190709-14:51:36.364994000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:51:36.372267000 : Initiated logon request
+20190709-14:51:36.381835000 : Message 13 Rejected: SendingTime accuracy problem
+20190709-14:51:36.381941000 : Tried to send a reject while not logged on
+20190709-14:51:36.381955000 : Disconnecting
+20190709-14:51:36.390645000 : Initiated logon request
+20190709-14:52:36.596813000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:52:36.603315000 : Initiated logon request
+20190709-14:52:36.607592000 : Message 14 Rejected: SendingTime accuracy problem
+20190709-14:52:36.607680000 : Tried to send a reject while not logged on
+20190709-14:52:36.607691000 : Disconnecting
+20190709-14:52:36.609797000 : Initiated logon request
+20190709-14:53:36.198916000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:53:36.233304000 : Initiated logon request
+20190709-14:53:36.238597000 : Message 15 Rejected: SendingTime accuracy problem
+20190709-14:53:36.238683000 : Tried to send a reject while not logged on
+20190709-14:53:36.238695000 : Disconnecting
+20190709-14:53:36.239950000 : Initiated logon request
+20190709-14:54:36.748244000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:54:36.774361000 : Initiated logon request
+20190709-14:54:36.779549000 : Message 16 Rejected: SendingTime accuracy problem
+20190709-14:54:36.779647000 : Tried to send a reject while not logged on
+20190709-14:54:36.779660000 : Disconnecting
+20190709-14:54:36.781356000 : Initiated logon request
+20190709-14:55:36.511926000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:55:36.522197000 : Initiated logon request
+20190709-14:55:36.550100000 : Message 17 Rejected: SendingTime accuracy problem
+20190709-14:55:36.550231000 : Tried to send a reject while not logged on
+20190709-14:55:36.550246000 : Disconnecting
+20190709-14:55:36.553401000 : Initiated logon request
+20190709-14:56:36.248979000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:56:36.253709000 : Initiated logon request
+20190709-14:56:36.258344000 : Message 18 Rejected: SendingTime accuracy problem
+20190709-14:56:36.258390000 : Tried to send a reject while not logged on
+20190709-14:56:36.258399000 : Disconnecting
+20190709-14:56:36.258973000 : Initiated logon request
+20190709-14:57:36.236490000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:57:36.249157000 : Initiated logon request
+20190709-14:57:36.265064000 : Message 19 Rejected: SendingTime accuracy problem
+20190709-14:57:36.265100000 : Tried to send a reject while not logged on
+20190709-14:57:36.265103000 : Disconnecting
+20190709-14:57:36.265637000 : Initiated logon request
+20190709-14:58:36.208329000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:58:36.217603000 : Initiated logon request
+20190709-14:58:36.222375000 : Message 20 Rejected: SendingTime accuracy problem
+20190709-14:58:36.222464000 : Tried to send a reject while not logged on
+20190709-14:58:36.222475000 : Disconnecting
+20190709-14:58:36.234081000 : Initiated logon request
+20190709-14:59:36.743258000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-14:59:36.751037000 : Initiated logon request
+20190709-14:59:36.767166000 : Message 21 Rejected: SendingTime accuracy problem
+20190709-14:59:36.767288000 : Tried to send a reject while not logged on
+20190709-14:59:36.767304000 : Disconnecting
+20190709-14:59:36.769796000 : Initiated logon request
+20190709-15:00:36.383715000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:00:36.392552000 : Initiated logon request
+20190709-15:00:36.405529000 : Message 22 Rejected: SendingTime accuracy problem
+20190709-15:00:36.405970000 : Tried to send a reject while not logged on
+20190709-15:00:36.406107000 : Disconnecting
+20190709-15:00:36.408179000 : Initiated logon request
+20190709-15:01:36.803508000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:01:36.813564000 : Initiated logon request
+20190709-15:01:36.858702000 : Message 23 Rejected: SendingTime accuracy problem
+20190709-15:01:36.858822000 : Tried to send a reject while not logged on
+20190709-15:01:36.858837000 : Disconnecting
+20190709-15:01:36.861212000 : Initiated logon request
+20190709-15:02:36.260897000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:02:36.267855000 : Initiated logon request
+20190709-15:02:36.286503000 : Message 24 Rejected: SendingTime accuracy problem
+20190709-15:02:36.286688000 : Tried to send a reject while not logged on
+20190709-15:02:36.286706000 : Disconnecting
+20190709-15:02:36.304919000 : Initiated logon request
+20190709-15:03:36.092664000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:03:36.100207000 : Initiated logon request
+20190709-15:03:36.106156000 : Message 25 Rejected: SendingTime accuracy problem
+20190709-15:03:36.106197000 : Tried to send a reject while not logged on
+20190709-15:03:36.106202000 : Disconnecting
+20190709-15:03:36.106802000 : Initiated logon request
+20190709-15:04:36.642907000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:04:36.649091000 : Initiated logon request
+20190709-15:04:36.656037000 : Message 26 Rejected: SendingTime accuracy problem
+20190709-15:04:36.656083000 : Tried to send a reject while not logged on
+20190709-15:04:36.656092000 : Disconnecting
+20190709-15:04:36.656841000 : Initiated logon request
+20190709-15:05:36.480282000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:05:36.490537000 : Initiated logon request
+20190709-15:05:36.501769000 : Message 27 Rejected: SendingTime accuracy problem
+20190709-15:05:36.501882000 : Tried to send a reject while not logged on
+20190709-15:05:36.501895000 : Disconnecting
+20190709-15:05:36.506017000 : Initiated logon request
+20190709-15:06:36.125343000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:06:36.130129000 : Initiated logon request
+20190709-15:06:36.142188000 : Message 28 Rejected: SendingTime accuracy problem
+20190709-15:06:36.142230000 : Tried to send a reject while not logged on
+20190709-15:06:36.142237000 : Disconnecting
+20190709-15:06:36.142830000 : Initiated logon request
+20190709-15:44:46.323289000 : Created session
+20190709-15:44:47.246715000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:44:47.251544000 : Initiated logon request
+20190709-15:44:47.258937000 : Message 29 Rejected: SendingTime accuracy problem
+20190709-15:44:47.268875000 : Tried to send a reject while not logged on
+20190709-15:44:47.268882000 : Disconnecting
+20190709-15:44:47.271389000 : Initiated logon request
+20190709-15:45:23.686034000 : Created session
+20190709-15:46:24.588958000 : Created session
+20190709-15:46:25.882036000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:46:25.894426000 : Initiated logon request
+20190709-15:46:25.899434000 : Message 30 Rejected: SendingTime accuracy problem
+20190709-15:46:25.899525000 : Tried to send a reject while not logged on
+20190709-15:46:25.899533000 : Disconnecting
+20190709-15:46:25.900207000 : Initiated logon request
+20190709-15:47:03.839047000 : Created session
+20190709-15:47:56.712869000 : Created session
+20190709-15:47:57.827721000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:47:57.832424000 : Initiated logon request
+20190709-15:47:57.837422000 : Message 31 Rejected: SendingTime accuracy problem
+20190709-15:47:57.837462000 : Tried to send a reject while not logged on
+20190709-15:47:57.837467000 : Disconnecting
+20190709-15:47:57.838011000 : Initiated logon request
+20190709-15:48:44.290628000 : Created session
+20190709-15:48:44.293567000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:48:44.300577000 : Initiated logon request
+20190709-15:48:44.306365000 : Message 32 Rejected: SendingTime accuracy problem
+20190709-15:48:44.306408000 : Tried to send a reject while not logged on
+20190709-15:48:44.306412000 : Disconnecting
+20190709-15:48:44.311107000 : Initiated logon request
+20190709-15:49:44.061395000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-15:49:44.065980000 : Initiated logon request
+20190709-15:49:44.070534000 : Message 33 Rejected: SendingTime accuracy problem
+20190709-15:49:44.070573000 : Tried to send a reject while not logged on
+20190709-15:49:44.070577000 : Disconnecting
+20190709-15:49:44.071503000 : Initiated logon request
+20190709-09:03:24.696778000 : Created session
+20190709-09:03:24.702446000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:03:24.708507000 : Initiated logon request
+20190709-09:03:24.712363000 : Message 34 Rejected: SendingTime accuracy problem
+20190709-09:03:24.712411000 : Tried to send a reject while not logged on
+20190709-09:03:24.712417000 : Disconnecting
+20190709-09:03:24.713843000 : Initiated logon request
+20190709-09:04:24.515794000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190709-09:04:24.521269000 : Initiated logon request
+20190709-09:04:24.526220000 : Message 35 Rejected: SendingTime accuracy problem
+20190709-09:04:24.526382000 : Tried to send a reject while not logged on
+20190709-09:04:24.526392000 : Disconnecting
+20190709-09:04:24.527189000 : Initiated logon request
+20190710-09:04:24.941332000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-09:04:24.950256000 : Initiated logon request
+20190710-09:04:24.956729000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-09:04:24.956761000 : Received logon response
+20190710-09:04:38.342325000 : Created session
+20190710-09:04:38.354077000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-09:04:38.361550000 : Initiated logon request
+20190710-09:04:38.366485000 : Socket Error: Connection reset by peer.
+20190710-09:04:38.366574000 : Disconnecting
+20190710-09:05:23.499724000 : Created session
+20190710-09:06:04.701494000 : Created session
+20190710-09:07:23.920943000 : Created session
+20190710-09:08:22.611823000 : Created session
+20190710-09:08:46.430747000 : Created session
+20190710-09:08:46.439289000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-09:08:46.456069000 : Initiated logon request
+20190710-09:08:46.467511000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-09:08:46.467549000 : Received logon response
+20190710-09:09:02.437095000 : Initiated logout request
+20190710-09:09:02.441265000 : Received logout response
+20190710-09:09:02.441446000 : Disconnecting
+20190710-11:31:53.010046000 : Created session
+20190710-11:31:53.013091000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-11:31:53.017880000 : Initiated logon request
+20190710-11:31:53.021424000 : Message 4 Rejected: SendingTime accuracy problem
+20190710-11:31:53.021475000 : Tried to send a reject while not logged on
+20190710-11:31:53.021481000 : Disconnecting
+20190710-11:31:53.024522000 : Initiated logon request
+20190710-11:32:17.296311000 : Created session
+20190710-11:32:30.386047000 : Created session
+20190710-11:33:31.732038000 : Created session
+20190710-11:33:31.734729000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-11:33:31.739255000 : Initiated logon request
+20190710-11:33:31.753180000 : Message 5 Rejected: SendingTime accuracy problem
+20190710-11:33:31.753233000 : Tried to send a reject while not logged on
+20190710-11:33:31.753238000 : Disconnecting
+20190710-11:33:31.763849000 : Initiated logon request
+20190710-13:20:49.949555000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:20:49.953645000 : Initiated logon request
+20190710-13:20:49.957695000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:20:49.957739000 : Received logon response
+20190710-13:21:22.978326000 : Initiated logout request
+20190710-13:21:22.983148000 : Received logout response
+20190710-13:21:22.983456000 : Disconnecting
+20190710-13:22:43.133057000 : Created session
+20190710-13:22:43.136753000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:22:43.145686000 : Initiated logon request
+20190710-13:22:43.149662000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:22:43.149705000 : Received logon response
+20190710-13:23:01.300295000 : Received logout request
+20190710-13:23:01.300522000 : Sending logout response
+20190710-13:23:01.300819000 : Disconnecting
+20190710-13:23:01.301823000 : Initiated logon request
+20190710-13:24:54.254815000 : Created session
+20190710-13:24:54.257519000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:24:54.264025000 : Initiated logon request
+20190710-13:24:54.267322000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:24:54.267355000 : Received logon response
+20190710-13:24:56.605879000 : Received logout request
+20190710-13:24:56.606045000 : Sending logout response
+20190710-13:24:56.606304000 : Disconnecting
+20190710-13:24:56.607067000 : Initiated logon request
+20190710-13:26:48.780435000 : Created session
+20190710-13:26:48.783172000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:26:48.787551000 : Initiated logon request
+20190710-13:26:48.792940000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:26:48.792999000 : Received logon response
+20190710-13:26:52.231519000 : Received logout request
+20190710-13:26:52.231667000 : Sending logout response
+20190710-13:26:52.231953000 : Disconnecting
+20190710-13:26:52.232911000 : Initiated logon request
+20190710-13:30:02.798482000 : Created session
+20190710-13:30:02.801247000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:30:02.805553000 : Initiated logon request
+20190710-13:30:02.809385000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:30:02.809418000 : Received logon response
+20190710-13:30:04.696406000 : Received logout request
+20190710-13:30:04.696583000 : Sending logout response
+20190710-13:30:04.696922000 : Disconnecting
+20190710-13:30:04.697785000 : Initiated logon request
+20190710-13:31:29.796571000 : Created session
+20190710-13:31:29.799254000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:31:29.806793000 : Initiated logon request
+20190710-13:31:29.810749000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:31:29.810784000 : Received logon response
+20190710-13:31:30.978888000 : Received logout request
+20190710-13:31:30.979191000 : Sending logout response
+20190710-13:31:30.979554000 : Disconnecting
+20190710-13:31:30.984942000 : Initiated logon request
+20190710-13:36:29.519743000 : Created session
+20190710-13:36:29.522522000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:36:29.529230000 : Initiated logon request
+20190710-13:36:29.532735000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:36:29.532771000 : Received logon response
+20190710-13:36:30.809597000 : Received logout request
+20190710-13:36:30.809806000 : Sending logout response
+20190710-13:36:30.810067000 : Disconnecting
+20190710-13:36:30.810997000 : Initiated logon request
+20190710-13:36:58.172961000 : Created session
+20190710-13:36:58.175655000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:36:58.180474000 : Initiated logon request
+20190710-13:36:58.184753000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:36:58.184792000 : Received logon response
+20190710-13:36:59.279164000 : Received logout request
+20190710-13:36:59.279328000 : Sending logout response
+20190710-13:36:59.279597000 : Disconnecting
+20190710-13:36:59.280388000 : Initiated logon request
+20190710-13:38:03.891887000 : Created session
+20190710-13:38:03.894852000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:38:03.899161000 : Initiated logon request
+20190710-13:38:03.903022000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:38:03.903055000 : Received logon response
+20190710-13:38:05.546027000 : Received logout request
+20190710-13:38:05.546259000 : Sending logout response
+20190710-13:38:05.546573000 : Disconnecting
+20190710-13:38:05.547369000 : Initiated logon request
+20190710-13:38:39.087856000 : Created session
+20190710-13:38:39.090774000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:38:39.095986000 : Initiated logon request
+20190710-13:38:39.100101000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:38:39.100141000 : Received logon response
+20190710-13:38:47.059014000 : Received logout request
+20190710-13:38:47.059239000 : Sending logout response
+20190710-13:38:47.059576000 : Disconnecting
+20190710-13:38:47.060455000 : Initiated logon request
+20190710-13:40:08.471426000 : Created session
+20190710-13:40:08.474213000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:40:08.479354000 : Initiated logon request
+20190710-13:40:08.489012000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:40:08.489052000 : Received logon response
+20190710-13:40:09.685161000 : Received logout request
+20190710-13:40:09.685327000 : Sending logout response
+20190710-13:40:09.685712000 : Disconnecting
+20190710-13:40:09.686229000 : Initiated logon request
+20190710-13:41:08.313145000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:41:08.317911000 : Initiated logon request
+20190710-13:41:08.322032000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:41:08.322068000 : Received logon response
+20190710-13:41:32.071707000 : Initiated logout request
+20190710-13:41:32.075430000 : Received logout response
+20190710-13:41:32.075599000 : Disconnecting
+20190710-13:42:46.188665000 : Created session
+20190710-13:42:46.192034000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:42:46.196942000 : Initiated logon request
+20190710-13:42:46.203006000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:42:46.203055000 : Received logon response
+20190710-13:43:13.982817000 : Received logout request
+20190710-13:43:13.982940000 : Sending logout response
+20190710-13:43:13.983223000 : Disconnecting
+20190710-13:43:13.983694000 : Initiated logon request
+20190710-13:43:46.737491000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-13:43:46.747995000 : Initiated logon request
+20190710-13:43:46.753326000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-13:43:46.753371000 : Received logon response
+20190710-13:47:22.553063000 : Initiated logout request
+20190710-13:47:22.557158000 : Received logout response
+20190710-13:47:22.557364000 : Disconnecting
+20190710-14:24:52.413922000 : Created session
+20190710-14:24:52.417692000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:24:52.423743000 : Initiated logon request
+20190710-14:24:52.427761000 : Message 11 Rejected: SendingTime accuracy problem
+20190710-14:24:52.427797000 : Tried to send a reject while not logged on
+20190710-14:24:52.427801000 : Disconnecting
+20190710-14:24:52.429677000 : Initiated logon request
+20190710-14:25:39.504606000 : Created session
+20190710-14:25:57.106718000 : Created session
+20190710-14:25:57.112190000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:25:57.118209000 : Initiated logon request
+20190710-14:25:57.122331000 : Message 12 Rejected: SendingTime accuracy problem
+20190710-14:25:57.122387000 : Tried to send a reject while not logged on
+20190710-14:25:57.122394000 : Disconnecting
+20190710-14:25:57.123451000 : Initiated logon request
+20190710-14:28:00.378009000 : Created session
+20190710-14:28:42.085033000 : Created session
+20190710-14:28:42.087631000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:28:42.092612000 : Initiated logon request
+20190710-14:28:42.102981000 : Message 13 Rejected: SendingTime accuracy problem
+20190710-14:28:42.103030000 : Tried to send a reject while not logged on
+20190710-14:28:42.103035000 : Disconnecting
+20190710-14:28:42.104097000 : Initiated logon request
+20190710-14:29:42.912156000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:29:42.918299000 : Initiated logon request
+20190710-14:29:42.923396000 : Message 14 Rejected: SendingTime accuracy problem
+20190710-14:29:42.923465000 : Tried to send a reject while not logged on
+20190710-14:29:42.923473000 : Disconnecting
+20190710-14:29:42.925974000 : Initiated logon request
+20190710-14:30:42.826462000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:30:42.831893000 : Initiated logon request
+20190710-14:30:42.836060000 : Message 15 Rejected: SendingTime accuracy problem
+20190710-14:30:42.836108000 : Tried to send a reject while not logged on
+20190710-14:30:42.836120000 : Disconnecting
+20190710-14:30:42.836934000 : Initiated logon request
+20190710-14:31:37.200255000 : Created session
+20190710-14:31:41.987812000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:31:41.993769000 : Initiated logon request
+20190710-14:31:42.000539000 : Message 16 Rejected: SendingTime accuracy problem
+20190710-14:31:42.000659000 : Tried to send a reject while not logged on
+20190710-14:31:42.000673000 : Disconnecting
+20190710-14:31:42.001287000 : Initiated logon request
+20190710-14:33:56.241150000 : Created session
+20190710-14:36:02.192264000 : Created session
+20190710-14:36:02.195424000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:36:02.200246000 : Initiated logon request
+20190710-14:36:02.204286000 : Message 17 Rejected: SendingTime accuracy problem
+20190710-14:36:02.204336000 : Tried to send a reject while not logged on
+20190710-14:36:02.204343000 : Disconnecting
+20190710-14:36:02.205360000 : Initiated logon request
+20190710-14:37:02.030615000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:37:02.036790000 : Initiated logon request
+20190710-14:37:02.040871000 : Message 18 Rejected: SendingTime accuracy problem
+20190710-14:37:02.040910000 : Tried to send a reject while not logged on
+20190710-14:37:02.040915000 : Disconnecting
+20190710-14:37:02.041648000 : Initiated logon request
+20190710-14:40:38.531305000 : Created session
+20190710-14:40:38.533891000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:40:38.638512000 : Initiated logon request
+20190710-14:40:38.642087000 : Message 19 Rejected: SendingTime accuracy problem
+20190710-14:40:38.642124000 : Tried to send a reject while not logged on
+20190710-14:40:38.642128000 : Disconnecting
+20190710-14:40:38.643018000 : Initiated logon request
+20190710-14:41:12.885981000 : Created session
+20190710-14:41:12.888694000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:41:12.895371000 : Initiated logon request
+20190710-14:41:12.900089000 : Message 20 Rejected: SendingTime accuracy problem
+20190710-14:41:12.900127000 : Tried to send a reject while not logged on
+20190710-14:41:12.900132000 : Disconnecting
+20190710-14:41:12.901174000 : Initiated logon request
+20190710-14:42:33.737766000 : Created session
+20190710-14:42:33.743156000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:42:33.750260000 : Initiated logon request
+20190710-14:42:33.754442000 : Message 21 Rejected: SendingTime accuracy problem
+20190710-14:42:33.754485000 : Tried to send a reject while not logged on
+20190710-14:42:33.754490000 : Disconnecting
+20190710-14:42:33.755519000 : Initiated logon request
+20190710-14:43:33.554724000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:43:33.565098000 : Initiated logon request
+20190710-14:43:33.569727000 : Message 22 Rejected: SendingTime accuracy problem
+20190710-14:43:33.569806000 : Tried to send a reject while not logged on
+20190710-14:43:33.569815000 : Disconnecting
+20190710-14:43:33.578618000 : Initiated logon request
+20190710-14:44:33.280208000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-14:44:33.286853000 : Initiated logon request
+20190710-14:44:33.292124000 : Message 23 Rejected: SendingTime accuracy problem
+20190710-14:44:33.292562000 : Tried to send a reject while not logged on
+20190710-14:44:33.292584000 : Disconnecting
+20190710-14:44:33.298433000 : Initiated logon request
+20190710-15:05:56.475985000 : Created session
+20190710-15:06:09.566772000 : Created session
+20190710-15:06:09.569693000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:06:09.574836000 : Initiated logon request
+20190710-15:06:09.578526000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:06:09.578564000 : Received logon response
+20190710-15:06:19.130417000 : Received logout request
+20190710-15:06:19.130564000 : Sending logout response
+20190710-15:06:19.130832000 : Disconnecting
+20190710-15:06:19.131323000 : Initiated logon request
+20190710-15:07:09.821431000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:07:09.826116000 : Initiated logon request
+20190710-15:07:09.832614000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:07:09.835303000 : Received logon response
+20190710-15:07:35.308870000 : Initiated logout request
+20190710-15:07:35.312799000 : Received logout response
+20190710-15:07:35.313140000 : Disconnecting
+20190710-15:13:26.720641000 : Created session
+20190710-15:13:26.727451000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:13:26.732178000 : Initiated logon request
+20190710-15:13:26.736195000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:13:26.736246000 : Received logon response
+20190710-15:13:28.931353000 : Received logout request
+20190710-15:13:28.931499000 : Sending logout response
+20190710-15:13:28.931774000 : Disconnecting
+20190710-15:13:28.935847000 : Initiated logon request
+20190710-15:25:05.013883000 : Created session
+20190710-15:25:05.017196000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:25:05.021892000 : Initiated logon request
+20190710-15:25:05.025899000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:25:05.025936000 : Received logon response
+20190710-15:25:14.524398000 : Received logout request
+20190710-15:25:14.524534000 : Sending logout response
+20190710-15:25:14.524833000 : Disconnecting
+20190710-15:25:14.525349000 : Initiated logon request
+20190710-15:26:05.219251000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:26:05.225246000 : Initiated logon request
+20190710-15:26:05.229257000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:26:05.229334000 : Received logon response
+20190710-15:26:14.131691000 : Initiated logout request
+20190710-15:26:14.137540000 : Received logout response
+20190710-15:26:14.137891000 : Disconnecting
+20190710-15:26:31.617580000 : Created session
+20190710-15:26:31.622243000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:26:31.642271000 : Initiated logon request
+20190710-15:26:31.648098000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:26:31.648141000 : Received logon response
+20190710-15:26:34.954301000 : Received logout request
+20190710-15:26:34.954456000 : Sending logout response
+20190710-15:26:34.954685000 : Disconnecting
+20190710-15:26:34.965094000 : Initiated logon request
+20190710-15:27:31.714058000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:27:31.718489000 : Initiated logon request
+20190710-15:27:31.724439000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:27:31.724474000 : Received logon response
+20190710-15:28:27.976303000 : Initiated logout request
+20190710-15:28:27.982786000 : Received logout response
+20190710-15:28:27.983015000 : Disconnecting
+20190710-15:28:32.116588000 : Created session
+20190710-15:28:32.125879000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:28:32.130434000 : Initiated logon request
+20190710-15:28:32.140312000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:28:32.140357000 : Received logon response
+20190710-15:28:34.403177000 : Received logout request
+20190710-15:28:34.403307000 : Sending logout response
+20190710-15:28:34.403471000 : Disconnecting
+20190710-15:28:34.403889000 : Initiated logon request
+20190710-15:32:22.692957000 : Created session
+20190710-15:32:22.695570000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:32:22.700299000 : Initiated logon request
+20190710-15:32:22.706394000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:32:22.706430000 : Received logon response
+20190710-15:32:36.067058000 : Initiated logout request
+20190710-15:32:36.071055000 : Received logout response
+20190710-15:32:36.071389000 : Disconnecting
+20190710-15:32:45.602341000 : Created session
+20190710-15:32:45.605068000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-15:32:45.609616000 : Initiated logon request
+20190710-15:32:45.628431000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190710-15:32:45.628464000 : Received logon response
+20190710-15:32:52.446292000 : Initiated logout request
+20190710-15:32:52.450561000 : Received logout response
+20190710-15:32:52.450750000 : Disconnecting
+20190710-09:35:43.707566000 : Created session
+20190710-09:35:43.710041000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190710-09:35:43.714419000 : Initiated logon request
+20190710-09:35:43.718330000 : Message 1 Rejected: SendingTime accuracy problem
+20190710-09:35:43.718500000 : Tried to send a reject while not logged on
+20190710-09:35:43.718510000 : Disconnecting
+20190710-09:35:43.719572000 : Initiated logon request
+20190711-09:36:17.900156000 : Created session
+20190711-09:36:17.902605000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:36:17.910535000 : Initiated logon request
+20190711-09:36:17.915962000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:36:17.915995000 : Received logon response
+20190711-09:37:04.875654000 : Initiated logout request
+20190711-09:37:04.888574000 : Received logout response
+20190711-09:37:04.889440000 : Disconnecting
+20190711-09:40:01.974945000 : Created session
+20190711-09:40:01.977455000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:40:01.982425000 : Initiated logon request
+20190711-09:40:02.000551000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:40:02.000583000 : Received logon response
+20190711-09:40:30.727624000 : Initiated logout request
+20190711-09:40:30.731886000 : Received logout response
+20190711-09:40:30.732085000 : Disconnecting
+20190711-09:42:00.332104000 : Created session
+20190711-09:42:00.335809000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:42:00.367591000 : Initiated logon request
+20190711-09:42:00.371060000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:42:00.371104000 : Received logon response
+20190711-09:44:43.090948000 : Initiated logout request
+20190711-09:44:43.097450000 : Received logout response
+20190711-09:44:43.099905000 : Disconnecting
+20190711-09:44:47.026348000 : Created session
+20190711-09:44:47.029244000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:44:47.035556000 : Initiated logon request
+20190711-09:44:47.039581000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:44:47.039628000 : Received logon response
+20190711-09:52:23.190302000 : Created session
+20190711-09:52:23.197096000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:52:23.215191000 : Initiated logon request
+20190711-09:52:23.222259000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:52:23.222303000 : Received logon response
+20190711-09:52:59.915968000 : Created session
+20190711-09:52:59.918551000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:52:59.923433000 : Initiated logon request
+20190711-09:52:59.938306000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:52:59.938344000 : Received logon response
+20190711-09:56:20.586499000 : Created session
+20190711-09:56:20.591360000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:56:20.596176000 : Initiated logon request
+20190711-09:56:20.600340000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:56:20.600370000 : Received logon response
+20190711-09:57:10.511359000 : Initiated logout request
+20190711-09:57:10.520441000 : Received logout response
+20190711-09:57:10.520622000 : Disconnecting
+20190711-09:57:14.262014000 : Created session
+20190711-09:57:14.265681000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:57:14.269825000 : Initiated logon request
+20190711-09:57:14.276350000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:57:14.276450000 : Received logon response
+20190711-09:59:00.081756000 : Initiated logout request
+20190711-09:59:00.085376000 : Received logout response
+20190711-09:59:00.085588000 : Disconnecting
+20190711-09:59:03.168307000 : Created session
+20190711-09:59:03.171001000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-09:59:03.176624000 : Initiated logon request
+20190711-09:59:03.180160000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-09:59:03.180200000 : Received logon response
+20190711-10:05:28.324719000 : Created session
+20190711-10:05:28.328493000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:05:28.334821000 : Initiated logon request
+20190711-10:05:28.338713000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:05:28.338753000 : Received logon response
+20190711-10:07:28.728152000 : Created session
+20190711-10:07:28.730737000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:07:28.735438000 : Initiated logon request
+20190711-10:07:28.739368000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:07:28.739402000 : Received logon response
+20190711-10:07:44.397935000 : Created session
+20190711-10:07:44.403947000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:07:44.411307000 : Initiated logon request
+20190711-10:07:44.433939000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:07:44.433977000 : Received logon response
+20190711-10:08:43.803046000 : Created session
+20190711-10:08:43.810397000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:08:43.815499000 : Initiated logon request
+20190711-10:08:43.820772000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:08:43.820813000 : Received logon response
+20190711-10:08:57.522881000 : Created session
+20190711-10:08:57.533740000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:08:57.558681000 : Initiated logon request
+20190711-10:08:57.566181000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:08:57.566243000 : Received logon response
+20190711-10:09:17.254511000 : Created session
+20190711-10:09:17.257033000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:09:17.262388000 : Initiated logon request
+20190711-10:09:17.273511000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:09:17.273550000 : Received logon response
+20190711-10:13:08.644090000 : Initiated logout request
+20190711-10:13:08.649182000 : Received logout response
+20190711-10:13:08.649790000 : Disconnecting
+20190711-10:22:00.778145000 : Created session
+20190711-10:22:00.781134000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:22:00.785815000 : Initiated logon request
+20190711-10:22:00.789872000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:22:00.789904000 : Received logon response
+20190711-10:28:28.128639000 : Initiated logout request
+20190711-10:28:28.144183000 : Received logout response
+20190711-10:28:28.144427000 : Disconnecting
+20190711-10:28:49.460784000 : Created session
+20190711-10:28:49.465024000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:28:49.470192000 : Initiated logon request
+20190711-10:28:49.481952000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:28:49.481995000 : Received logon response
+20190711-10:35:44.121528000 : Initiated logout request
+20190711-10:35:44.125929000 : Received logout response
+20190711-10:35:44.126142000 : Disconnecting
+20190711-10:35:47.435979000 : Created session
+20190711-10:35:47.439655000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:35:47.460029000 : Initiated logon request
+20190711-10:35:47.465188000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:35:47.465223000 : Received logon response
+20190711-10:40:34.835248000 : Created session
+20190711-10:40:34.843493000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190711-10:40:34.847970000 : Initiated logon request
+20190711-10:40:34.860303000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190711-10:40:34.860340000 : Received logon response
+20190712-14:50:12.614578000 : Created session
+20190712-14:50:12.617907000 : Connecting to 87.245.204.203 on port 20011 (Source :0)
+20190712-14:50:12.626075000 : Initiated logon request
+20190712-14:50:12.629714000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20190712-14:50:12.629748000 : Received logon response
+20190712-14:50:26.595416000 : Initiated logout request
+20190712-14:50:26.599191000 : Received logout response
+20190712-14:50:26.599496000 : Disconnecting

@@ -1,0 +1,119 @@
+20190707-15:58:03.988988000 : Created session
+20190707-15:58:03.989527000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-15:58:45.324029000 : Created session
+20190707-15:58:45.324502000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:10:21.116777000 : Created session
+20190707-16:10:23.308518000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:11:10.223112000 : Created session
+20190707-16:11:10.223659000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:14:51.841654000 : Created session
+20190707-16:14:51.842210000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:17:01.855460000 : Initiated logon request
+20190707-16:17:01.855500000 : Socket Error: Connection reset by peer.
+20190707-16:17:01.855515000 : Disconnecting
+20190707-16:17:52.631104000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:20:02.079685000 : Initiated logon request
+20190707-16:20:02.079816000 : Socket Error: Connection reset by peer.
+20190707-16:20:02.079843000 : Disconnecting
+20190707-16:20:52.488808000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:23:02.303683000 : Initiated logon request
+20190707-16:23:02.303824000 : Socket Error: Connection reset by peer.
+20190707-16:23:02.303847000 : Disconnecting
+20190707-16:23:52.208089000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:26:02.527281000 : Initiated logon request
+20190707-16:26:02.527319000 : Socket Error: Connection reset by peer.
+20190707-16:26:02.527327000 : Disconnecting
+20190707-16:26:52.894163000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:29:02.751628000 : Initiated logon request
+20190707-16:29:02.751670000 : Socket Error: Connection reset by peer.
+20190707-16:29:02.751678000 : Disconnecting
+20190707-16:29:52.628727000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:32:02.975312000 : Initiated logon request
+20190707-16:32:02.975350000 : Socket Error: Connection reset by peer.
+20190707-16:32:02.975359000 : Disconnecting
+20190707-16:32:52.415613000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:35:03.199584000 : Initiated logon request
+20190707-16:35:03.199625000 : Socket Error: Connection reset by peer.
+20190707-16:35:03.199632000 : Disconnecting
+20190707-16:35:52.216201000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:38:03.423513000 : Initiated logon request
+20190707-16:38:03.423553000 : Socket Error: Connection reset by peer.
+20190707-16:38:03.423560000 : Disconnecting
+20190707-16:38:52.077616000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:41:01.599440000 : Initiated logon request
+20190707-16:41:01.599480000 : Socket Error: Connection reset by peer.
+20190707-16:41:01.599488000 : Disconnecting
+20190707-16:41:52.643521000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:44:01.823311000 : Initiated logon request
+20190707-16:44:01.823355000 : Socket Error: Connection reset by peer.
+20190707-16:44:01.823363000 : Disconnecting
+20190707-16:44:52.358514000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:47:02.047271000 : Initiated logon request
+20190707-16:47:02.047309000 : Socket Error: Connection reset by peer.
+20190707-16:47:02.047318000 : Disconnecting
+20190707-16:47:52.055947000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:50:02.272239000 : Initiated logon request
+20190707-16:50:02.272312000 : Socket Error: Connection reset by peer.
+20190707-16:50:02.272326000 : Disconnecting
+20190707-16:50:52.639823000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:53:02.495937000 : Initiated logon request
+20190707-16:53:02.496029000 : Socket Error: Connection reset by peer.
+20190707-16:53:02.496048000 : Disconnecting
+20190707-16:53:52.233975000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:56:02.719844000 : Initiated logon request
+20190707-16:56:02.719938000 : Socket Error: Connection reset by peer.
+20190707-16:56:02.719952000 : Disconnecting
+20190707-16:56:52.554671000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-16:59:02.944293000 : Initiated logon request
+20190707-16:59:02.944396000 : Socket Error: Connection reset by peer.
+20190707-16:59:02.944417000 : Disconnecting
+20190707-16:59:52.851345000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:02:03.167286000 : Initiated logon request
+20190707-17:02:03.167326000 : Socket Error: Connection reset by peer.
+20190707-17:02:03.167334000 : Disconnecting
+20190707-17:03:37.881832000 : Created session
+20190707-17:03:39.117009000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:05:48.447326000 : Initiated logon request
+20190707-17:05:48.447372000 : Socket Error: Connection reset by peer.
+20190707-17:05:48.447383000 : Disconnecting
+20190707-17:06:40.139200000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:08:50.719809000 : Initiated logon request
+20190707-17:08:50.719850000 : Socket Error: Connection reset by peer.
+20190707-17:08:50.719858000 : Disconnecting
+20190707-17:09:40.900934000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:11:50.943680000 : Initiated logon request
+20190707-17:11:50.943736000 : Socket Error: Connection reset by peer.
+20190707-17:11:50.943745000 : Disconnecting
+20190707-17:12:40.675938000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:14:51.167672000 : Initiated logon request
+20190707-17:14:51.167708000 : Socket Error: Connection reset by peer.
+20190707-17:14:51.167715000 : Disconnecting
+20190707-17:15:40.593354000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:17:51.391436000 : Initiated logon request
+20190707-17:17:51.391476000 : Socket Error: Connection reset by peer.
+20190707-17:17:51.391484000 : Disconnecting
+20190707-17:18:40.493809000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:20:51.615613000 : Initiated logon request
+20190707-17:20:51.615717000 : Socket Error: Connection reset by peer.
+20190707-17:20:51.615739000 : Disconnecting
+20190707-17:21:40.280406000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:23:49.791695000 : Initiated logon request
+20190707-17:23:49.791812000 : Socket Error: Connection reset by peer.
+20190707-17:23:49.791837000 : Disconnecting
+20190707-17:24:40.630711000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:26:50.015657000 : Initiated logon request
+20190707-17:26:50.015760000 : Socket Error: Connection reset by peer.
+20190707-17:26:50.015781000 : Disconnecting
+20190707-17:27:40.191357000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-17:29:50.239410000 : Initiated logon request
+20190707-17:29:50.239450000 : Socket Error: Connection reset by peer.
+20190707-17:29:50.239457000 : Disconnecting
+20190707-18:17:45.496276000 : Created session
+20190707-18:17:45.496863000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-18:21:12.693249000 : Created session
+20190707-18:21:14.148605000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
+20190707-18:23:23.551277000 : Initiated logon request
+20190707-18:23:23.551316000 : Socket Error: Connection reset by peer.
+20190707-18:23:23.551325000 : Disconnecting
+20190707-18:24:04.630010000 : Created session
+20190707-18:24:04.630523000 : Connecting to 123.123.123.123 on port 9823 (Source :0)
